@@ -1,0 +1,350 @@
+{
+  "book_name": "Juan",
+  "chapter": 11,
+  "verses": [
+    {
+      "book_name": "Juan",
+      "chapter": 11,
+      "verse": 1,
+      "text": "Estaba entonces enfermo uno *llamado* Lázaro, de Betania, la aldea de María y de Marta su hermana.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 2,
+      "text": "(María, cuyo hermano Lázaro estaba enfermo, era la que ungió al Señor con ungüento, y enjugó sus pies con sus cabellos.)",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 3,
+      "text": "Enviaron, pues, sus hermanas a Él, diciendo: Señor, he aquí el que amas está enfermo.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 4,
+      "text": "Y oyéndolo Jesús, dijo: Esta enfermedad no es para muerte, sino para la gloria de Dios, para que el Hijo de Dios sea glorificado por ella.*",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 5,
+      "text": "Y amaba Jesús a Marta, y a su hermana, y a Lázaro.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 6,
+      "text": "Cuando oyó, pues, que estaba enfermo, se quedó aún dos días en el mismo lugar donde estaba.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 7,
+      "text": "Luego, después de esto, dijo a *sus* discípulos: Vamos a Judea otra vez.*",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 8,
+      "text": "discípulos le dijeron: Rabí, ahora procuraban los judíos apedrearte, ¿y otra vez vas allá?",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 9,
+      "text": "Respondió Jesús: ¿No tiene el día doce horas? Si alguien anda de día, no tropieza, porque ve la luz de este mundo.*",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 10,
+      "text": "Pero si alguien anda de noche, tropieza, porque no hay luz en él.*",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 11,
+      "text": "Estas cosas dijo Él; y después de esto les dijo: Nuestro amigo Lázaro duerme; mas yo voy a despertarle del sueño.*",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 12,
+      "text": "Dijeron entonces sus discípulos: Señor, si duerme, sano estará.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 13,
+      "text": "Pero esto decía Jesús de su muerte; y ellos pensaban que hablaba del reposar del sueño.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 14,
+      "text": "Y entonces Jesús les dijo claramente: Lázaro ha muerto;*",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 15,
+      "text": "y me alegro por vosotros, que yo no haya estado allí, para que creáis; mas vamos a él.*",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 16,
+      "text": "Dijo entonces Tomás, llamado el Dídimo, a sus condiscípulos: Vamos también nosotros, para que muramos con él.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 17,
+      "text": "Vino, pues, Jesús, y halló que hacía ya cuatro días que él *estaba* en el sepulcro.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 18,
+      "text": "Y Betania estaba cerca de Jerusalén como a quince estadios.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 19,
+      "text": "Y muchos de los judíos habían venido a Marta y a María, para consolarlas por su hermano.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 20,
+      "text": "Entonces Marta, cuando oyó que Jesús venía, salió a encontrarle; pero María se quedó sentada en casa.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 21,
+      "text": "Y Marta dijo a Jesús: Señor, si hubieras estado aquí, mi hermano no habría muerto.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 22,
+      "text": "Pero también sé ahora que todo lo que pidas a Dios, Dios te lo dará.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 23,
+      "text": "Jesús le dijo: Tu hermano resucitará.*",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 24,
+      "text": "Le dijo Marta: Yo sé que resucitará en la resurrección, en el día postrero.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 25,
+      "text": "Jesús le dijo: Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá.*",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 26,
+      "text": "Y todo aquel que vive y cree en mí, no morirá eternamente. ¿Crees esto?*",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 27,
+      "text": "Ella le dijo: Sí, Señor, yo creo que tú eres el Cristo, el Hijo de Dios que había de venir al mundo.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 28,
+      "text": "Y habiendo dicho esto, fue y llamó en secreto a María su hermana, diciendo: El Maestro está aquí y te llama.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 29,
+      "text": "Ella, oyéndolo, se levantó aprisa y vino a Él;",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 30,
+      "text": "Porque Jesús aún no había llegado a la aldea, sino que estaba en aquel lugar donde Marta le había encontrado.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 31,
+      "text": "Entonces los judíos que estaban en casa con ella y la consolaban, cuando vieron que María se levantó aprisa y salió, la siguieron, diciendo: Va al sepulcro a llorar allí.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 32,
+      "text": "Y cuando María llegó a donde estaba Jesús, al verle, se postró a sus pies, diciéndole: Señor, si hubieras estado aquí, mi hermano no habría muerto.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 33,
+      "text": "Jesús entonces, al verla llorando, y a los judíos que habían venido con ella, también llorando, se conmovió en espíritu y se turbó,",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 34,
+      "text": "y dijo: ¿Dónde le pusisteis?* Le dijeron: Señor, ven y ve.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 35,
+      "text": "Jesús lloró.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 36,
+      "text": "Dijeron entonces los judíos: ¡Mirad cuánto le amaba!",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 37,
+      "text": "Y algunos de ellos dijeron: ¿No podía Éste, que abrió los ojos al ciego, hacer también que éste no muriera?",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 38,
+      "text": "Y Jesús, conmoviéndose otra vez en sí mismo, vino al sepulcro. Era una cueva, y tenía una piedra puesta encima.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 39,
+      "text": "Dijo Jesús: Quitad la piedra.* Marta, la hermana del que había muerto, le dijo: Señor, hiede ya, porque es de cuatro días.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 40,
+      "text": "Jesús le dijo: ¿No te he dicho que si crees, verás la gloria de Dios?*",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 41,
+      "text": "Entonces quitaron la piedra de donde el muerto había sido puesto: Y Jesús alzando *sus* ojos, dijo: Padre, gracias te doy que me has oído.*",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 42,
+      "text": "Yo sabía que siempre me oyes; pero lo dije por causa de la gente que está alrededor, para que crean que tú me has enviado.*",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 43,
+      "text": "Y habiendo dicho esto, clamó a gran voz: ¡Lázaro, ven fuera!*",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 44,
+      "text": "Y el que había muerto salió, atadas las manos y los pies con vendas; y su rostro estaba envuelto en un sudario. Jesús les dijo: Desatadle, y dejadle ir.*",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 45,
+      "text": "Entonces muchos de los judíos que habían venido a María, y habían visto lo que hizo Jesús, creyeron en Él.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 46,
+      "text": "Pero algunos de ellos fueron a los fariseos y les dijeron lo que Jesús había hecho.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 47,
+      "text": "Entonces los príncipes de los sacerdotes y los fariseos reunieron el concilio, y dijeron: ¿Qué haremos? Porque este hombre hace muchos milagros.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 48,
+      "text": "Si le dejamos así, todos creerán en Él; y vendrán los romanos y nos quitarán nuestro lugar y nuestra nación.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 49,
+      "text": "Entonces Caifás, uno de ellos, sumo sacerdote aquel año, les dijo: Vosotros no sabéis nada;",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 50,
+      "text": "ni consideráis que nos conviene que un hombre muera por el pueblo, y no que toda la nación perezca.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 51,
+      "text": "Y esto no lo dijo de sí mismo; sino que como era el sumo sacerdote aquel año, profetizó que Jesús había de morir por la nación;",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 52,
+      "text": "y no solamente por aquella nación, sino también para reunir en uno a los hijos de Dios que estaban dispersos.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 53,
+      "text": "Así que, desde aquel día consultaban juntos para matarle.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 54,
+      "text": "Por tanto, Jesús ya no andaba abiertamente entre los judíos, sino que se fue de allí a la tierra que está junto al desierto, a una ciudad llamada Efraín; y se quedó allí con sus discípulos.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 55,
+      "text": "Y la pascua de los judíos estaba cerca; y muchos de aquella tierra subieron a Jerusalén antes de la pascua, para purificarse.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 56,
+      "text": "Y buscaban a Jesús, y estando en el templo, se decían unos a otros: ¿Qué os parece? ¿No vendrá a la fiesta?",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 57,
+      "text": "Y los príncipes de los sacerdotes y los fariseos habían dado orden, que si alguno supiese dónde estaba, lo manifestase, para que le prendiesen.",
+      "header": "",
+      "footer": ""
+    }
+  ]
+}

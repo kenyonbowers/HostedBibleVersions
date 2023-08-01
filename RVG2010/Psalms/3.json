@@ -1,0 +1,56 @@
+{
+  "book_name": "Salmos",
+  "chapter": 3,
+  "verses": [
+    {
+      "book_name": "Salmos",
+      "chapter": 3,
+      "verse": 1,
+      "text": "¡Oh Jehová, cuánto se han multiplicado mis enemigos! Muchos se levantan contra mí.",
+      "header": "**Salmo de David, cuando huía de adelante de Absalón su hijo**",
+      "footer": ""
+    },
+    {
+      "verse": 2,
+      "text": "Muchos dicen de mi vida: No hay para él salvación en Dios. (Selah)",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 3,
+      "text": "Pero tú, oh Jehová, *eres* escudo alrededor de mí, mi gloria, y el que levanta mi cabeza.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 4,
+      "text": "Con mi voz clamé a Jehová, y Él me respondió desde su monte santo. (Selah)",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 5,
+      "text": "Yo me acosté y dormí, y desperté; porque Jehová me sostuvo.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 6,
+      "text": "No temeré de diez millares de pueblos, que pusieren sitio contra mí.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 7,
+      "text": "Levántate, oh Jehová; sálvame, oh Dios mío; porque tú heriste a todos mis enemigos *en* la quijada; los dientes de los malos quebrantaste.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 8,
+      "text": "De Jehová es la salvación: Sobre tu pueblo *es* tu bendición. (Selah)",
+      "header": "",
+      "footer": ""
+    }
+  ]
+}

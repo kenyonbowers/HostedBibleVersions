@@ -1,0 +1,38 @@
+{
+  "book_name": "Salmos",
+  "chapter": 15,
+  "verses": [
+    {
+      "book_name": "Salmos",
+      "chapter": 15,
+      "verse": 1,
+      "text": "Jehová, ¿quién habitará en tu tabernáculo? ¿Quién residirá en tu santo monte?",
+      "header": "**Salmo de David**",
+      "footer": ""
+    },
+    {
+      "verse": 2,
+      "text": "El que anda en integridad y obra justicia, y habla verdad en su corazón.",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 3,
+      "text": "no calumnia con su lengua, ni hace mal a su prójimo, ni admite reproche contra su prójimo",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 4,
+      "text": "a cuyos ojos es menospreciado el vil; mas honra a los que temen a Jehová; *el que* aun jurando en daño *suyo,* no cambia;",
+      "header": "",
+      "footer": ""
+    },
+    {
+      "verse": 5,
+      "text": "su dinero no dio a usura, ni contra el inocente tomó cohecho. El que hace estas cosas, jamás será removido.",
+      "header": "",
+      "footer": ""
+    }
+  ]
+}
