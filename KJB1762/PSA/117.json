@@ -1,0 +1,55 @@
+{
+  "book_id": "PSA",
+  "book_name": "Psalms",
+  "chapter": 117,
+  "header": "",
+  "footer": "",
+  "language": "English",
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "O",
+        "praise",
+        "the",
+        "LORD,",
+        "all",
+        "ye",
+        "nations:",
+        "praise",
+        "him,",
+        "all",
+        "ye",
+        "people."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 2,
+      "text": [
+        "For",
+        "his",
+        "merciful",
+        "kindness",
+        "is",
+        "great",
+        "toward",
+        "us:",
+        "and",
+        "the",
+        "truth",
+        "of",
+        "the",
+        "LORD",
+        "*endureth",
+        "for",
+        "ever.",
+        "Praise",
+        "ye",
+        "the",
+        "LORD."
+      ],
+      "info": ""
+    }
+  ]
+}

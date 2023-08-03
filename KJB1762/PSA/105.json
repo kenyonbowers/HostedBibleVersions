@@ -1,0 +1,912 @@
+{
+  "book_id": "PSA",
+  "book_name": "Psalms",
+  "chapter": 105,
+  "header": "",
+  "footer": "",
+  "language": "English",
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "O",
+        "give",
+        "thanks",
+        "unto",
+        "the",
+        "LORD;",
+        "call",
+        "upon",
+        "his",
+        "name:",
+        "make",
+        "known",
+        "his",
+        "deeds",
+        "among",
+        "the",
+        "people."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Sing",
+        "unto",
+        "him,",
+        "sing",
+        "psalms",
+        "unto",
+        "him:",
+        "talk",
+        "ye",
+        "of",
+        "all",
+        "his",
+        "wondrous",
+        "works."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Glory",
+        "ye",
+        "in",
+        "his",
+        "holy",
+        "name:",
+        "let",
+        "the",
+        "heart",
+        "of",
+        "them",
+        "rejoice",
+        "that",
+        "seek",
+        "the",
+        "LORD."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Seek",
+        "the",
+        "LORD,",
+        "and",
+        "his",
+        "strength:",
+        "seek",
+        "his",
+        "face",
+        "evermore."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Remember",
+        "his",
+        "marvellous",
+        "works",
+        "that",
+        "he",
+        "hath",
+        "done;",
+        "his",
+        "wonders,",
+        "and",
+        "the",
+        "judgments",
+        "of",
+        "his",
+        "mouth;"
+      ],
+      "info": ""
+    },
+    {
+      "verse": 6,
+      "text": [
+        "O",
+        "ye",
+        "seed",
+        "of",
+        "Abraham",
+        "his",
+        "servant,",
+        "ye",
+        "children",
+        "of",
+        "Jacob",
+        "his",
+        "chosen."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 7,
+      "text": [
+        "He",
+        "*is",
+        "the",
+        "LORD",
+        "our",
+        "God:",
+        "his",
+        "judgments",
+        "*are",
+        "in",
+        "all",
+        "the",
+        "earth."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 8,
+      "text": [
+        "He",
+        "hath",
+        "remembered",
+        "his",
+        "covenant",
+        "for",
+        "ever,",
+        "the",
+        "word",
+        "*which",
+        "he",
+        "commanded",
+        "to",
+        "a",
+        "thousand",
+        "generations."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Which",
+        "*covenant",
+        "he",
+        "made",
+        "with",
+        "Abraham,",
+        "and",
+        "his",
+        "oath",
+        "unto",
+        "Isaac;"
+      ],
+      "info": ""
+    },
+    {
+      "verse": 10,
+      "text": [
+        "And",
+        "confirmed",
+        "the",
+        "same",
+        "unto",
+        "Jacob",
+        "for",
+        "a",
+        "law,",
+        "*and",
+        "to",
+        "Israel",
+        "*for",
+        "an",
+        "everlasting",
+        "covenant:"
+      ],
+      "info": ""
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Saying,",
+        "Unto",
+        "thee",
+        "will",
+        "I",
+        "give",
+        "the",
+        "land",
+        "of",
+        "Canaan,",
+        "the",
+        "lot",
+        "of",
+        "your",
+        "inheritance:"
+      ],
+      "info": ""
+    },
+    {
+      "verse": 12,
+      "text": [
+        "When",
+        "they",
+        "were",
+        "*but",
+        "a",
+        "few",
+        "men",
+        "in",
+        "number;",
+        "yea,",
+        "very",
+        "few,",
+        "and",
+        "strangers",
+        "in",
+        "it."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 13,
+      "text": [
+        "When",
+        "they",
+        "went",
+        "from",
+        "one",
+        "nation",
+        "to",
+        "another,",
+        "from",
+        "*one",
+        "kingdom",
+        "to",
+        "another",
+        "people;"
+      ],
+      "info": ""
+    },
+    {
+      "verse": 14,
+      "text": [
+        "He",
+        "suffered",
+        "no",
+        "man",
+        "to",
+        "do",
+        "them",
+        "wrong:",
+        "yea,",
+        "he",
+        "reproved",
+        "kings",
+        "for",
+        "their",
+        "sakes;"
+      ],
+      "info": ""
+    },
+    {
+      "verse": 15,
+      "text": [
+        "*Saying,",
+        "Touch",
+        "not",
+        "mine",
+        "anointed,",
+        "and",
+        "do",
+        "my",
+        "prophets",
+        "no",
+        "harm."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Moreover",
+        "he",
+        "called",
+        "for",
+        "a",
+        "famine",
+        "upon",
+        "the",
+        "land:",
+        "he",
+        "brake",
+        "the",
+        "whole",
+        "staff",
+        "of",
+        "bread."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 17,
+      "text": [
+        "He",
+        "sent",
+        "a",
+        "man",
+        "before",
+        "them,",
+        "*even",
+        "Joseph,",
+        "*who",
+        "was",
+        "sold",
+        "for",
+        "a",
+        "servant:"
+      ],
+      "info": ""
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Whose",
+        "feet",
+        "they",
+        "hurt",
+        "with",
+        "fetters:",
+        "he",
+        "was",
+        "laid",
+        "in",
+        "iron:"
+      ],
+      "info": ""
+    },
+    {
+      "verse": 19,
+      "text": [
+        "Until",
+        "the",
+        "time",
+        "that",
+        "his",
+        "word",
+        "came:",
+        "the",
+        "word",
+        "of",
+        "the",
+        "LORD",
+        "tried",
+        "him."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 20,
+      "text": [
+        "The",
+        "king",
+        "sent",
+        "and",
+        "loosed",
+        "him;",
+        "*even",
+        "the",
+        "ruler",
+        "of",
+        "the",
+        "people,",
+        "and",
+        "let",
+        "him",
+        "go",
+        "free."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 21,
+      "text": [
+        "He",
+        "made",
+        "him",
+        "lord",
+        "of",
+        "his",
+        "house,",
+        "and",
+        "ruler",
+        "of",
+        "all",
+        "his",
+        "substance:"
+      ],
+      "info": ""
+    },
+    {
+      "verse": 22,
+      "text": [
+        "To",
+        "bind",
+        "his",
+        "princes",
+        "at",
+        "his",
+        "pleasure;",
+        "and",
+        "teach",
+        "his",
+        "senators",
+        "wisdom."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 23,
+      "text": [
+        "Israel",
+        "also",
+        "came",
+        "into",
+        "Egypt;",
+        "and",
+        "Jacob",
+        "sojourned",
+        "in",
+        "the",
+        "land",
+        "of",
+        "Ham."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 24,
+      "text": [
+        "And",
+        "he",
+        "increased",
+        "his",
+        "people",
+        "greatly;",
+        "and",
+        "made",
+        "them",
+        "stronger",
+        "than",
+        "their",
+        "enemies."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 25,
+      "text": [
+        "He",
+        "turned",
+        "their",
+        "heart",
+        "to",
+        "hate",
+        "his",
+        "people,",
+        "to",
+        "deal",
+        "subtilly",
+        "with",
+        "his",
+        "servants."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 26,
+      "text": [
+        "He",
+        "sent",
+        "Moses",
+        "his",
+        "servant;",
+        "*and",
+        "Aaron",
+        "whom",
+        "he",
+        "had",
+        "chosen."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 27,
+      "text": [
+        "They",
+        "shewed",
+        "his",
+        "signs",
+        "among",
+        "them,",
+        "and",
+        "wonders",
+        "in",
+        "the",
+        "land",
+        "of",
+        "Ham."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 28,
+      "text": [
+        "He",
+        "sent",
+        "darkness,",
+        "and",
+        "made",
+        "it",
+        "dark;",
+        "and",
+        "they",
+        "rebelled",
+        "not",
+        "against",
+        "his",
+        "word."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 29,
+      "text": [
+        "He",
+        "turned",
+        "their",
+        "waters",
+        "into",
+        "blood,",
+        "and",
+        "slew",
+        "their",
+        "fish."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 30,
+      "text": [
+        "Their",
+        "land",
+        "brought",
+        "forth",
+        "frogs",
+        "in",
+        "abundance,",
+        "in",
+        "the",
+        "chambers",
+        "of",
+        "their",
+        "kings."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 31,
+      "text": [
+        "He",
+        "spake,",
+        "and",
+        "there",
+        "came",
+        "divers",
+        "sorts",
+        "of",
+        "flies,",
+        "*and",
+        "lice",
+        "in",
+        "all",
+        "their",
+        "coasts."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 32,
+      "text": [
+        "He",
+        "gave",
+        "them",
+        "hail",
+        "for",
+        "rain,",
+        "*and",
+        "flaming",
+        "fire",
+        "in",
+        "their",
+        "land."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 33,
+      "text": [
+        "He",
+        "smote",
+        "their",
+        "vines",
+        "also",
+        "and",
+        "their",
+        "fig",
+        "trees;",
+        "and",
+        "brake",
+        "the",
+        "trees",
+        "of",
+        "their",
+        "coasts."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 34,
+      "text": [
+        "He",
+        "spake,",
+        "and",
+        "the",
+        "locusts",
+        "came,",
+        "and",
+        "caterpillers,",
+        "and",
+        "that",
+        "without",
+        "number,"
+      ],
+      "info": ""
+    },
+    {
+      "verse": 35,
+      "text": [
+        "And",
+        "did",
+        "eat",
+        "up",
+        "all",
+        "the",
+        "herbs",
+        "in",
+        "their",
+        "land,",
+        "and",
+        "devoured",
+        "the",
+        "fruit",
+        "of",
+        "their",
+        "ground."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 36,
+      "text": [
+        "He",
+        "smote",
+        "also",
+        "all",
+        "the",
+        "firstborn",
+        "in",
+        "their",
+        "land,",
+        "the",
+        "chief",
+        "of",
+        "all",
+        "their",
+        "strength."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 37,
+      "text": [
+        "He",
+        "brought",
+        "them",
+        "forth",
+        "also",
+        "with",
+        "silver",
+        "and",
+        "gold:",
+        "and",
+        "*there",
+        "*was",
+        "not",
+        "one",
+        "feeble",
+        "*person",
+        "among",
+        "their",
+        "tribes."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 38,
+      "text": [
+        "Egypt",
+        "was",
+        "glad",
+        "when",
+        "they",
+        "departed:",
+        "for",
+        "the",
+        "fear",
+        "of",
+        "them",
+        "fell",
+        "upon",
+        "them."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 39,
+      "text": [
+        "He",
+        "spread",
+        "a",
+        "cloud",
+        "for",
+        "a",
+        "covering;",
+        "and",
+        "fire",
+        "to",
+        "give",
+        "light",
+        "in",
+        "the",
+        "night."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 40,
+      "text": [
+        "*The",
+        "*people",
+        "asked,",
+        "and",
+        "he",
+        "brought",
+        "quails,",
+        "and",
+        "satisfied",
+        "them",
+        "with",
+        "the",
+        "bread",
+        "of",
+        "heaven."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 41,
+      "text": [
+        "He",
+        "opened",
+        "the",
+        "rock,",
+        "and",
+        "the",
+        "waters",
+        "gushed",
+        "out;",
+        "they",
+        "ran",
+        "in",
+        "the",
+        "dry",
+        "places",
+        "*like",
+        "a",
+        "river."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 42,
+      "text": [
+        "For",
+        "he",
+        "remembered",
+        "his",
+        "holy",
+        "promise,",
+        "*and",
+        "Abraham",
+        "his",
+        "servant."
+      ],
+      "info": ""
+    },
+    {
+      "verse": 43,
+      "text": [
+        "And",
+        "he",
+        "brought",
+        "forth",
+        "his",
+        "people",
+        "with",
+        "joy,",
+        "*and",
+        "his",
+        "chosen",
+        "with",
+        "gladness:"
+      ],
+      "info": ""
+    },
+    {
+      "verse": 44,
+      "text": [
+        "And",
+        "gave",
+        "them",
+        "the",
+        "lands",
+        "of",
+        "the",
+        "heathen:",
+        "and",
+        "they",
+        "inherited",
+        "the",
+        "labour",
+        "of",
+        "the",
+        "people;"
+      ],
+      "info": ""
+    },
+    {
+      "verse": 45,
+      "text": [
+        "That",
+        "they",
+        "might",
+        "observe",
+        "his",
+        "statutes,",
+        "and",
+        "keep",
+        "his",
+        "laws.",
+        "Praise",
+        "ye",
+        "the",
+        "LORD."
+      ],
+      "info": ""
+    }
+  ]
+}
