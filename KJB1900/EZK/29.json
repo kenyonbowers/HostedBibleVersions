@@ -1,12 +1,10 @@
 {
-  "book_id": "EZK",
   "book_name": "Ezekiel",
   "chapter": 29,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 1,
       "text": [
         "In",
@@ -28,15 +26,18 @@
         "word",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "came",
         "unto",
         "me,",
         "saying,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 2,
       "text": [
         "Son",
@@ -59,9 +60,12 @@
         "all",
         "Egypt:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 3,
       "text": [
         "Speak,",
@@ -71,7 +75,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "Behold,",
         "I",
         "*am",
@@ -108,9 +112,12 @@
         "for",
         "myself."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 4,
       "text": [
         "But",
@@ -161,9 +168,12 @@
         "thy",
         "scales."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 5,
       "text": [
         "And",
@@ -218,9 +228,12 @@
         "the",
         "heaven."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 6,
       "text": [
         "And",
@@ -235,7 +248,7 @@
         "I",
         "*am",
         "the",
-        "LORD,",
+        "Lᴏʀᴅ,",
         "because",
         "they",
         "have",
@@ -250,9 +263,12 @@
         "of",
         "Israel."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 7,
       "text": [
         "When",
@@ -291,9 +307,12 @@
         "a",
         "stand."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 8,
       "text": [
         "¶",
@@ -302,7 +321,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "Behold,",
         "I",
         "will",
@@ -321,9 +340,12 @@
         "of",
         "thee."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 9,
       "text": [
         "And",
@@ -344,7 +366,7 @@
         "I",
         "*am",
         "the",
-        "LORD:",
+        "Lᴏʀᴅ:",
         "because",
         "he",
         "hath",
@@ -359,9 +381,12 @@
         "made",
         "*it."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 10,
       "text": [
         "Behold,",
@@ -398,9 +423,12 @@
         "of",
         "Ethiopia."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 11,
       "text": [
         "No",
@@ -427,9 +455,12 @@
         "forty",
         "years."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 12,
       "text": [
         "And",
@@ -482,9 +513,12 @@
         "the",
         "countries."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 13,
       "text": [
         "¶",
@@ -493,7 +527,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "At",
         "the",
         "end",
@@ -513,9 +547,12 @@
         "were",
         "scattered:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 14,
       "text": [
         "And",
@@ -553,9 +590,12 @@
         "base",
         "kingdom."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 15,
       "text": [
         "It",
@@ -591,9 +631,12 @@
         "the",
         "nations."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 16,
       "text": [
         "And",
@@ -630,11 +673,14 @@
         "*am",
         "the",
         "Lord",
-        "GOD."
+        "Gᴏᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 17,
       "text": [
         "¶",
@@ -664,15 +710,18 @@
         "word",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "came",
         "unto",
         "me,",
         "saying,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 18,
       "text": [
         "Son",
@@ -722,9 +771,12 @@
         "against",
         "it:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 19,
       "text": [
         "Therefore",
@@ -732,7 +784,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "Behold,",
         "I",
         "will",
@@ -770,9 +822,12 @@
         "his",
         "army."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 20,
       "text": [
         "I",
@@ -799,11 +854,14 @@
         "saith",
         "the",
         "Lord",
-        "GOD."
+        "Gᴏᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 29,
       "verse": 21,
       "text": [
         "¶",
@@ -846,9 +904,10 @@
         "I",
         "*am",
         "the",
-        "LORD."
+        "Lᴏʀᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

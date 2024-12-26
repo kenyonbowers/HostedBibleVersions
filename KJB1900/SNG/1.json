@@ -1,12 +1,10 @@
 {
-  "book_id": "SNG",
   "book_name": "Song of Solomon",
   "chapter": 1,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Song of Solomon",
+      "chapter": 1,
       "verse": 1,
       "text": [
         "The",
@@ -17,9 +15,12 @@
         "*is",
         "Solomon's."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 1,
       "verse": 2,
       "text": [
         "Let",
@@ -40,9 +41,12 @@
         "than",
         "wine."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 1,
       "verse": 3,
       "text": [
         "Because",
@@ -67,9 +71,12 @@
         "love",
         "thee."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 1,
       "verse": 4,
       "text": [
         "Draw",
@@ -108,9 +115,12 @@
         "love",
         "thee."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 1,
       "verse": 5,
       "text": [
         "I",
@@ -134,9 +144,12 @@
         "of",
         "Solomon."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 1,
       "verse": 6,
       "text": [
         "Look",
@@ -178,9 +191,12 @@
         "not",
         "kept."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 1,
       "verse": 7,
       "text": [
         "Tell",
@@ -220,9 +236,12 @@
         "thy",
         "companions?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 1,
       "verse": 8,
       "text": [
         "¶",
@@ -254,9 +273,12 @@
         "shepherds'",
         "tents."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 1,
       "verse": 9,
       "text": [
         "I",
@@ -275,9 +297,12 @@
         "Pharaoh's",
         "chariots."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 1,
       "verse": 10,
       "text": [
         "Thy",
@@ -295,9 +320,12 @@
         "*of",
         "*gold."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 1,
       "verse": 11,
       "text": [
         "We",
@@ -312,9 +340,12 @@
         "of",
         "silver."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 1,
       "verse": 12,
       "text": [
         "¶",
@@ -333,9 +364,12 @@
         "smell",
         "thereof."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 1,
       "verse": 13,
       "text": [
         "A",
@@ -356,9 +390,12 @@
         "my",
         "breasts."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 1,
       "verse": 14,
       "text": [
         "My",
@@ -377,9 +414,12 @@
         "of",
         "Engedi."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 1,
       "verse": 15,
       "text": [
         "Behold,",
@@ -397,9 +437,12 @@
         "doves'",
         "eyes."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 1,
       "verse": 16,
       "text": [
         "Behold,",
@@ -416,9 +459,12 @@
         "*is",
         "green."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 1,
       "verse": 17,
       "text": [
         "The",
@@ -434,7 +480,8 @@
         "of",
         "fir."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

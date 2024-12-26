@@ -1,12 +1,10 @@
 {
-  "book_id": "EZK",
   "book_name": "Ezekiel",
   "chapter": 19,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Ezekiel",
+      "chapter": 19,
       "verse": 1,
       "text": [
         "Moreover",
@@ -21,9 +19,12 @@
         "of",
         "Israel,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 19,
       "verse": 2,
       "text": [
         "And",
@@ -47,9 +48,12 @@
         "young",
         "lions."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 19,
       "verse": 3,
       "text": [
         "And",
@@ -76,9 +80,12 @@
         "devoured",
         "men."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 19,
       "verse": 4,
       "text": [
         "The",
@@ -105,9 +112,12 @@
         "of",
         "Egypt."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 19,
       "verse": 5,
       "text": [
         "Now",
@@ -137,9 +147,12 @@
         "young",
         "lion."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 19,
       "verse": 6,
       "text": [
         "And",
@@ -166,9 +179,12 @@
         "devoured",
         "men."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 19,
       "verse": 7,
       "text": [
         "And",
@@ -199,9 +215,12 @@
         "his",
         "roaring."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 19,
       "verse": 8,
       "text": [
         "Then",
@@ -229,9 +248,12 @@
         "their",
         "pit."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 19,
       "verse": 9,
       "text": [
         "And",
@@ -269,9 +291,12 @@
         "of",
         "Israel."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 19,
       "verse": 10,
       "text": [
         "¶",
@@ -301,9 +326,12 @@
         "many",
         "waters."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 19,
       "verse": 11,
       "text": [
         "And",
@@ -341,9 +369,12 @@
         "her",
         "branches."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 19,
       "verse": 12,
       "text": [
         "But",
@@ -380,9 +411,12 @@
         "consumed",
         "them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 19,
       "verse": 13,
       "text": [
         "And",
@@ -400,9 +434,12 @@
         "thirsty",
         "ground."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 19,
       "verse": 14,
       "text": [
         "And",
@@ -445,7 +482,8 @@
         "a",
         "lamentation."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

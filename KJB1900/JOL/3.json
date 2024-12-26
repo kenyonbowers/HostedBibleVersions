@@ -1,12 +1,10 @@
 {
-  "book_id": "JOL",
   "book_name": "Joel",
   "chapter": 3,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 1,
       "text": [
         "For,",
@@ -30,9 +28,12 @@
         "and",
         "Jerusalem,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 2,
       "text": [
         "I",
@@ -77,9 +78,12 @@
         "my",
         "land."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 3,
       "text": [
         "And",
@@ -109,9 +113,12 @@
         "might",
         "drink."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 4,
       "text": [
         "Yea,",
@@ -157,9 +164,12 @@
         "own",
         "head;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 5,
       "text": [
         "Because",
@@ -182,9 +192,12 @@
         "pleasant",
         "things:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 6,
       "text": [
         "The",
@@ -213,9 +226,12 @@
         "their",
         "border."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 7,
       "text": [
         "Behold,",
@@ -242,9 +258,12 @@
         "own",
         "head:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 8,
       "text": [
         "And",
@@ -279,14 +298,17 @@
         "off:",
         "for",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "hath",
         "spoken",
         "*it."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 9,
       "text": [
         "¶",
@@ -316,9 +338,12 @@
         "come",
         "up:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 10,
       "text": [
         "Beat",
@@ -339,9 +364,12 @@
         "*am",
         "strong."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 11,
       "text": [
         "Assemble",
@@ -366,11 +394,14 @@
         "come",
         "down,",
         "O",
-        "LORD."
+        "Lᴏʀᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 12,
       "text": [
         "Let",
@@ -399,9 +430,12 @@
         "round",
         "about."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 13,
       "text": [
         "Put",
@@ -432,9 +466,12 @@
         "*is",
         "great."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 14,
       "text": [
         "Multitudes,",
@@ -449,7 +486,7 @@
         "day",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "*is",
         "near",
         "in",
@@ -458,9 +495,12 @@
         "of",
         "decision."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 15,
       "text": [
         "The",
@@ -479,13 +519,16 @@
         "their",
         "shining."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 16,
       "text": [
         "The",
-        "LORD",
+        "Lᴏʀᴅ",
         "also",
         "shall",
         "roar",
@@ -508,7 +551,7 @@
         "shake:",
         "but",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "*will",
         "*be",
         "the",
@@ -525,9 +568,12 @@
         "of",
         "Israel."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 17,
       "text": [
         "So",
@@ -538,7 +584,7 @@
         "I",
         "*am",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "your",
         "God",
         "dwelling",
@@ -563,9 +609,12 @@
         "any",
         "more."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 18,
       "text": [
         "¶",
@@ -614,7 +663,7 @@
         "house",
         "of",
         "the",
-        "LORD,",
+        "Lᴏʀᴅ,",
         "and",
         "shall",
         "water",
@@ -623,9 +672,12 @@
         "of",
         "Shittim."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 19,
       "text": [
         "Egypt",
@@ -658,9 +710,12 @@
         "their",
         "land."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 20,
       "text": [
         "But",
@@ -676,9 +731,12 @@
         "to",
         "generation."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 3,
       "verse": 21,
       "text": [
         "For",
@@ -694,12 +752,13 @@
         "cleansed:",
         "for",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "dwelleth",
         "in",
         "Zion."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

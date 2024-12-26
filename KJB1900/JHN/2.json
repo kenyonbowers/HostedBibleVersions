@@ -1,12 +1,10 @@
 {
-  "book_id": "JHN",
   "book_name": "John",
   "chapter": 2,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 1,
       "text": [
         "And",
@@ -29,9 +27,12 @@
         "was",
         "there:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 2,
       "text": [
         "And",
@@ -46,9 +47,12 @@
         "the",
         "marriage."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 3,
       "text": [
         "And",
@@ -68,33 +72,39 @@
         "no",
         "wine."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 4,
       "text": [
         "Jesus",
         "saith",
         "unto",
         "her,",
-        "|Woman,",
-        "|what",
-        "|have",
-        "|I",
-        "|to",
-        "|do",
-        "|with",
-        "|thee?",
-        "|mine",
-        "|hour",
-        "|is",
-        "|not",
-        "|yet",
-        "|come."
+        "Woman,",
+        "what",
+        "have",
+        "I",
+        "to",
+        "do",
+        "with",
+        "thee?",
+        "mine",
+        "hour",
+        "is",
+        "not",
+        "yet",
+        "come."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 5,
       "text": [
         "His",
@@ -111,9 +121,12 @@
         "do",
         "*it."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 6,
       "text": [
         "And",
@@ -141,20 +154,23 @@
         "firkins",
         "apiece."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 7,
       "text": [
         "Jesus",
         "saith",
         "unto",
         "them,",
-        "|Fill",
-        "|the",
-        "|waterpots",
-        "|with",
-        "|water.",
+        "Fill",
+        "the",
+        "waterpots",
+        "with",
+        "water.",
         "And",
         "they",
         "filled",
@@ -164,9 +180,12 @@
         "the",
         "brim."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 8,
       "text": [
         "And",
@@ -174,25 +193,28 @@
         "saith",
         "unto",
         "them,",
-        "|Draw",
-        "|out",
-        "|now,",
-        "|and",
-        "|bear",
-        "|unto",
-        "|the",
-        "|governor",
-        "|of",
-        "|the",
-        "|feast.",
+        "Draw",
+        "out",
+        "now,",
+        "and",
+        "bear",
+        "unto",
+        "the",
+        "governor",
+        "of",
+        "the",
+        "feast.",
         "And",
         "they",
         "bare",
         "*it."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 9,
       "text": [
         "When",
@@ -232,9 +254,12 @@
         "the",
         "bridegroom,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 10,
       "text": [
         "And",
@@ -272,9 +297,12 @@
         "until",
         "now."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 11,
       "text": [
         "This",
@@ -299,9 +327,12 @@
         "on",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 12,
       "text": [
         "¶",
@@ -330,9 +361,12 @@
         "many",
         "days."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 13,
       "text": [
         "¶",
@@ -350,9 +384,12 @@
         "to",
         "Jerusalem,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 14,
       "text": [
         "And",
@@ -375,9 +412,12 @@
         "money",
         "sitting:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 15,
       "text": [
         "And",
@@ -415,9 +455,12 @@
         "the",
         "tables;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 16,
       "text": [
         "And",
@@ -427,23 +470,26 @@
         "that",
         "sold",
         "doves,",
-        "|Take",
-        "|these",
-        "|things",
-        "|hence;",
-        "|make",
-        "|not",
-        "|my",
-        "|Father's",
-        "|house",
-        "|an",
-        "|house",
-        "|of",
-        "|merchandise."
+        "Take",
+        "these",
+        "things",
+        "hence;",
+        "make",
+        "not",
+        "my",
+        "Father's",
+        "house",
+        "an",
+        "house",
+        "of",
+        "merchandise."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 17,
       "text": [
         "And",
@@ -464,9 +510,12 @@
         "me",
         "up."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 18,
       "text": [
         "¶",
@@ -491,9 +540,12 @@
         "these",
         "things?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 19,
       "text": [
         "Jesus",
@@ -502,22 +554,25 @@
         "said",
         "unto",
         "them,",
-        "|Destroy",
-        "|this",
-        "|temple,",
-        "|and",
-        "|in",
-        "|three",
-        "|days",
-        "|I",
-        "|will",
-        "|raise",
-        "|it",
-        "|up."
+        "Destroy",
+        "this",
+        "temple,",
+        "and",
+        "in",
+        "three",
+        "days",
+        "I",
+        "will",
+        "raise",
+        "it",
+        "up."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 20,
       "text": [
         "Then",
@@ -543,9 +598,12 @@
         "three",
         "days?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 21,
       "text": [
         "But",
@@ -558,9 +616,12 @@
         "his",
         "body."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 22,
       "text": [
         "When",
@@ -594,9 +655,12 @@
         "had",
         "said."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 23,
       "text": [
         "¶",
@@ -627,9 +691,12 @@
         "he",
         "did."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 24,
       "text": [
         "But",
@@ -646,9 +713,12 @@
         "all",
         "*men,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 2,
       "verse": 25,
       "text": [
         "And",
@@ -668,7 +738,8 @@
         "in",
         "man."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

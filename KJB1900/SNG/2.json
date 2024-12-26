@@ -1,12 +1,10 @@
 {
-  "book_id": "SNG",
   "book_name": "Song of Solomon",
   "chapter": 2,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Song of Solomon",
+      "chapter": 2,
       "verse": 1,
       "text": [
         "I",
@@ -22,9 +20,12 @@
         "the",
         "valleys."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 2,
       "verse": 2,
       "text": [
         "As",
@@ -40,9 +41,12 @@
         "the",
         "daughters."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 2,
       "verse": 3,
       "text": [
         "As",
@@ -80,9 +84,12 @@
         "my",
         "taste."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 2,
       "verse": 4,
       "text": [
         "He",
@@ -100,9 +107,12 @@
         "*was",
         "love."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 2,
       "verse": 5,
       "text": [
         "Stay",
@@ -120,9 +130,12 @@
         "of",
         "love."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 2,
       "verse": 6,
       "text": [
         "His",
@@ -140,9 +153,12 @@
         "embrace",
         "me."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 2,
       "verse": 7,
       "text": [
         "I",
@@ -176,9 +192,12 @@
         "he",
         "please."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 2,
       "verse": 8,
       "text": [
         "¶",
@@ -199,9 +218,12 @@
         "the",
         "hills."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 2,
       "verse": 9,
       "text": [
         "My",
@@ -232,9 +254,12 @@
         "the",
         "lattice."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 2,
       "verse": 10,
       "text": [
         "My",
@@ -255,9 +280,12 @@
         "come",
         "away."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 2,
       "verse": 11,
       "text": [
         "For,",
@@ -273,9 +301,12 @@
         "*and",
         "gone;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 2,
       "verse": 12,
       "text": [
         "The",
@@ -305,9 +336,12 @@
         "our",
         "land;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 2,
       "verse": 13,
       "text": [
         "The",
@@ -339,9 +373,12 @@
         "come",
         "away."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 2,
       "verse": 14,
       "text": [
         "¶",
@@ -384,9 +421,12 @@
         "*is",
         "comely."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 2,
       "verse": 15,
       "text": [
         "Take",
@@ -407,9 +447,12 @@
         "tender",
         "grapes."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 2,
       "verse": 16,
       "text": [
         "¶",
@@ -427,9 +470,12 @@
         "the",
         "lilies."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 2,
       "verse": 17,
       "text": [
         "Until",
@@ -460,7 +506,8 @@
         "of",
         "Bether."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

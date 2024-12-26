@@ -1,12 +1,10 @@
 {
-  "book_id": "EZK",
   "book_name": "Ezekiel",
   "chapter": 40,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 1,
       "text": [
         "In",
@@ -49,7 +47,7 @@
         "hand",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "was",
         "upon",
         "me,",
@@ -58,9 +56,12 @@
         "me",
         "thither."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 2,
       "text": [
         "In",
@@ -97,9 +98,12 @@
         "the",
         "south."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 3,
       "text": [
         "And",
@@ -140,9 +144,12 @@
         "the",
         "gate."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 4,
       "text": [
         "And",
@@ -200,9 +207,12 @@
         "of",
         "Israel."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 5,
       "text": [
         "And",
@@ -252,9 +262,12 @@
         "one",
         "reed."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 6,
       "text": [
         "¶",
@@ -300,9 +313,12 @@
         "reed",
         "broad."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 7,
       "text": [
         "And",
@@ -342,9 +358,12 @@
         "one",
         "reed."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 8,
       "text": [
         "He",
@@ -359,9 +378,12 @@
         "one",
         "reed."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 9,
       "text": [
         "Then",
@@ -389,9 +411,12 @@
         "*was",
         "inward."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 10,
       "text": [
         "And",
@@ -432,9 +457,12 @@
         "that",
         "side."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 11,
       "text": [
         "And",
@@ -459,9 +487,12 @@
         "thirteen",
         "cubits."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 12,
       "text": [
         "The",
@@ -503,9 +534,12 @@
         "that",
         "side."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 13,
       "text": [
         "He",
@@ -536,9 +570,12 @@
         "against",
         "door."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 14,
       "text": [
         "He",
@@ -560,9 +597,12 @@
         "the",
         "gate."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 15,
       "text": [
         "And",
@@ -589,9 +629,12 @@
         "fifty",
         "cubits."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 16,
       "text": [
         "And",
@@ -631,9 +674,12 @@
         "palm",
         "trees."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 17,
       "text": [
         "Then",
@@ -665,9 +711,12 @@
         "the",
         "pavement."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 18,
       "text": [
         "And",
@@ -691,9 +740,12 @@
         "lower",
         "pavement."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 19,
       "text": [
         "Then",
@@ -723,9 +775,12 @@
         "and",
         "northward."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 20,
       "text": [
         "¶",
@@ -751,9 +806,12 @@
         "breadth",
         "thereof."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 21,
       "text": [
         "And",
@@ -801,9 +859,12 @@
         "twenty",
         "cubits."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 22,
       "text": [
         "And",
@@ -845,9 +906,12 @@
         "before",
         "them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 23,
       "text": [
         "And",
@@ -880,9 +944,12 @@
         "hundred",
         "cubits."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 24,
       "text": [
         "¶",
@@ -916,9 +983,12 @@
         "these",
         "measures."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 25,
       "text": [
         "And",
@@ -950,9 +1020,12 @@
         "twenty",
         "cubits."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 26,
       "text": [
         "And",
@@ -991,9 +1064,12 @@
         "posts",
         "thereof."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 27,
       "text": [
         "And",
@@ -1022,9 +1098,12 @@
         "hundred",
         "cubits."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 28,
       "text": [
         "And",
@@ -1050,9 +1129,12 @@
         "these",
         "measures;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 29,
       "text": [
         "And",
@@ -1097,9 +1179,12 @@
         "cubits",
         "broad."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 30,
       "text": [
         "And",
@@ -1118,9 +1203,12 @@
         "cubits",
         "broad."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 31,
       "text": [
         "And",
@@ -1150,9 +1238,12 @@
         "eight",
         "steps."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 32,
       "text": [
         "¶",
@@ -1177,9 +1268,12 @@
         "these",
         "measures."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 33,
       "text": [
         "And",
@@ -1224,9 +1318,12 @@
         "cubits",
         "broad."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 34,
       "text": [
         "And",
@@ -1263,9 +1360,12 @@
         "eight",
         "steps."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 35,
       "text": [
         "¶",
@@ -1285,9 +1385,12 @@
         "these",
         "measures;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 36,
       "text": [
         "The",
@@ -1321,9 +1424,12 @@
         "twenty",
         "cubits."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 37,
       "text": [
         "And",
@@ -1360,9 +1466,12 @@
         "eight",
         "steps."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 38,
       "text": [
         "And",
@@ -1386,9 +1495,12 @@
         "burnt",
         "offering."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 39,
       "text": [
         "¶",
@@ -1426,9 +1538,12 @@
         "trespass",
         "offering."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 40,
       "text": [
         "And",
@@ -1467,9 +1582,12 @@
         "two",
         "tables."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 41,
       "text": [
         "Four",
@@ -1498,9 +1616,12 @@
         "*their",
         "*sacrifices."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 42,
       "text": [
         "And",
@@ -1549,9 +1670,12 @@
         "the",
         "sacrifice."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 43,
       "text": [
         "And",
@@ -1575,9 +1699,12 @@
         "the",
         "offering."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 44,
       "text": [
         "¶",
@@ -1627,9 +1754,12 @@
         "the",
         "north."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 45,
       "text": [
         "And",
@@ -1658,9 +1788,12 @@
         "the",
         "house."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 46,
       "text": [
         "And",
@@ -1700,15 +1833,18 @@
         "near",
         "to",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "to",
         "minister",
         "unto",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 47,
       "text": [
         "So",
@@ -1735,9 +1871,12 @@
         "the",
         "house."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 48,
       "text": [
         "¶",
@@ -1788,9 +1927,12 @@
         "that",
         "side."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 40,
       "verse": 49,
       "text": [
         "The",
@@ -1836,7 +1978,8 @@
         "that",
         "side."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

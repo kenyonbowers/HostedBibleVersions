@@ -1,12 +1,10 @@
 {
-  "book_id": "JAS",
   "book_name": "James",
   "chapter": 2,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 1,
       "text": [
         "My",
@@ -29,9 +27,12 @@
         "of",
         "persons."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 2,
       "text": [
         "For",
@@ -62,9 +63,12 @@
         "vile",
         "raiment;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 3,
       "text": [
         "And",
@@ -104,9 +108,12 @@
         "my",
         "footstool:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 4,
       "text": [
         "Are",
@@ -124,9 +131,12 @@
         "evil",
         "thoughts?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 5,
       "text": [
         "Hearken,",
@@ -160,9 +170,12 @@
         "love",
         "him?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 6,
       "text": [
         "But",
@@ -185,9 +198,12 @@
         "judgment",
         "seats?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 7,
       "text": [
         "Do",
@@ -204,9 +220,12 @@
         "are",
         "called?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 8,
       "text": [
         "If",
@@ -230,9 +249,12 @@
         "do",
         "well:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 9,
       "text": [
         "But",
@@ -254,9 +276,12 @@
         "as",
         "transgressors."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 10,
       "text": [
         "For",
@@ -278,9 +303,12 @@
         "of",
         "all."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 11,
       "text": [
         "For",
@@ -315,9 +343,12 @@
         "the",
         "law."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 12,
       "text": [
         "So",
@@ -338,9 +369,12 @@
         "of",
         "liberty."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 13,
       "text": [
         "For",
@@ -361,9 +395,12 @@
         "against",
         "judgment."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 14,
       "text": [
         "What",
@@ -388,9 +425,12 @@
         "save",
         "him?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 15,
       "text": [
         "If",
@@ -406,9 +446,12 @@
         "daily",
         "food,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 16,
       "text": [
         "And",
@@ -444,9 +487,12 @@
         "*it",
         "profit?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 17,
       "text": [
         "Even",
@@ -462,9 +508,12 @@
         "being",
         "alone."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 18,
       "text": [
         "Yea,",
@@ -497,9 +546,12 @@
         "my",
         "works."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 19,
       "text": [
         "Thou",
@@ -519,9 +571,12 @@
         "and",
         "tremble."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 20,
       "text": [
         "But",
@@ -538,9 +593,12 @@
         "is",
         "dead?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 21,
       "text": [
         "Was",
@@ -562,9 +620,12 @@
         "the",
         "altar?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 22,
       "text": [
         "Seest",
@@ -583,9 +644,12 @@
         "made",
         "perfect?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 23,
       "text": [
         "And",
@@ -615,9 +679,12 @@
         "of",
         "God."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 24,
       "text": [
         "Ye",
@@ -637,9 +704,12 @@
         "faith",
         "only."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 25,
       "text": [
         "Likewise",
@@ -666,9 +736,12 @@
         "another",
         "way?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 2,
       "verse": 26,
       "text": [
         "For",
@@ -688,7 +761,8 @@
         "dead",
         "also."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

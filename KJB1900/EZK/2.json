@@ -1,12 +1,10 @@
 {
-  "book_id": "EZK",
   "book_name": "Ezekiel",
   "chapter": 2,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Ezekiel",
+      "chapter": 2,
       "verse": 1,
       "text": [
         "And",
@@ -28,9 +26,12 @@
         "unto",
         "thee."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 2,
       "verse": 2,
       "text": [
         "And",
@@ -59,9 +60,12 @@
         "unto",
         "me."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 2,
       "verse": 3,
       "text": [
         "And",
@@ -103,9 +107,12 @@
         "very",
         "day."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 2,
       "verse": 4,
       "text": [
         "For",
@@ -131,11 +138,14 @@
         "saith",
         "the",
         "Lord",
-        "GOD."
+        "Gᴏᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 2,
       "verse": 5,
       "text": [
         "And",
@@ -167,9 +177,12 @@
         "among",
         "them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 2,
       "verse": 6,
       "text": [
         "¶",
@@ -221,9 +234,12 @@
         "rebellious",
         "house."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 2,
       "verse": 7,
       "text": [
         "And",
@@ -249,9 +265,12 @@
         "most",
         "rebellious."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 2,
       "verse": 8,
       "text": [
         "But",
@@ -283,9 +302,12 @@
         "give",
         "thee."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 2,
       "verse": 9,
       "text": [
         "¶",
@@ -310,9 +332,12 @@
         "*was",
         "therein;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 2,
       "verse": 10,
       "text": [
         "And",
@@ -339,7 +364,8 @@
         "and",
         "woe."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

@@ -1,12 +1,10 @@
 {
-  "book_id": "JHN",
   "book_name": "John",
   "chapter": 21,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 1,
       "text": [
         "After",
@@ -32,9 +30,12 @@
         "he",
         "*himself."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 2,
       "text": [
         "There",
@@ -64,9 +65,12 @@
         "his",
         "disciples."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 3,
       "text": [
         "Simon",
@@ -103,9 +107,12 @@
         "caught",
         "nothing."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 4,
       "text": [
         "But",
@@ -130,9 +137,12 @@
         "was",
         "Jesus."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 5,
       "text": [
         "Then",
@@ -140,19 +150,22 @@
         "saith",
         "unto",
         "them,",
-        "|Children,",
-        "|have",
-        "|ye",
-        "|any",
-        "|meat?",
+        "Children,",
+        "have",
+        "ye",
+        "any",
+        "meat?",
         "They",
         "answered",
         "him,",
         "No."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 6,
       "text": [
         "And",
@@ -160,20 +173,20 @@
         "said",
         "unto",
         "them,",
-        "|Cast",
-        "|the",
-        "|net",
-        "|on",
-        "|the",
-        "|right",
-        "|side",
-        "|of",
-        "|the",
-        "|ship,",
-        "|and",
-        "|ye",
-        "|shall",
-        "|find.",
+        "Cast",
+        "the",
+        "net",
+        "on",
+        "the",
+        "right",
+        "side",
+        "of",
+        "the",
+        "ship,",
+        "and",
+        "ye",
+        "shall",
+        "find.",
         "They",
         "cast",
         "therefore,",
@@ -192,9 +205,12 @@
         "of",
         "fishes."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 7,
       "text": [
         "Therefore",
@@ -239,9 +255,12 @@
         "the",
         "sea."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 8,
       "text": [
         "And",
@@ -273,9 +292,12 @@
         "with",
         "fishes."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 9,
       "text": [
         "As",
@@ -301,28 +323,34 @@
         "and",
         "bread."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 10,
       "text": [
         "Jesus",
         "saith",
         "unto",
         "them,",
-        "|Bring",
-        "|of",
-        "|the",
-        "|fish",
-        "|which",
-        "|ye",
-        "|have",
-        "|now",
-        "|caught."
+        "Bring",
+        "of",
+        "the",
+        "fish",
+        "which",
+        "ye",
+        "have",
+        "now",
+        "caught."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 11,
       "text": [
         "Simon",
@@ -359,18 +387,21 @@
         "net",
         "broken."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 12,
       "text": [
         "Jesus",
         "saith",
         "unto",
         "them,",
-        "|Come",
-        "|*and",
-        "|dine.",
+        "Come",
+        "*and",
+        "dine.",
         "And",
         "none",
         "of",
@@ -389,9 +420,12 @@
         "the",
         "Lord."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 13,
       "text": [
         "Jesus",
@@ -407,9 +441,12 @@
         "fish",
         "likewise."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 14,
       "text": [
         "This",
@@ -434,9 +471,12 @@
         "the",
         "dead."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 15,
       "text": [
         "¶",
@@ -450,16 +490,16 @@
         "to",
         "Simon",
         "Peter,",
-        "|Simon,",
-        "|*son",
-        "|of",
-        "|Jonas,",
-        "|lovest",
-        "|thou",
-        "|me",
-        "|more",
-        "|than",
-        "|these?",
+        "Simon,",
+        "*son",
+        "of",
+        "Jonas,",
+        "lovest",
+        "thou",
+        "me",
+        "more",
+        "than",
+        "these?",
         "He",
         "saith",
         "unto",
@@ -476,13 +516,16 @@
         "saith",
         "unto",
         "him,",
-        "|Feed",
-        "|my",
-        "|lambs."
+        "Feed",
+        "my",
+        "lambs."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 16,
       "text": [
         "He",
@@ -493,13 +536,13 @@
         "the",
         "second",
         "time,",
-        "|Simon,",
-        "|*son",
-        "|of",
-        "|Jonas,",
-        "|lovest",
-        "|thou",
-        "|me?",
+        "Simon,",
+        "*son",
+        "of",
+        "Jonas,",
+        "lovest",
+        "thou",
+        "me?",
         "He",
         "saith",
         "unto",
@@ -516,13 +559,16 @@
         "saith",
         "unto",
         "him,",
-        "|Feed",
-        "|my",
-        "|sheep."
+        "Feed",
+        "my",
+        "sheep."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 17,
       "text": [
         "He",
@@ -532,13 +578,13 @@
         "the",
         "third",
         "time,",
-        "|Simon,",
-        "|*son",
-        "|of",
-        "|Jonas,",
-        "|lovest",
-        "|thou",
-        "|me?",
+        "Simon,",
+        "*son",
+        "of",
+        "Jonas,",
+        "lovest",
+        "thou",
+        "me?",
         "Peter",
         "was",
         "grieved",
@@ -573,61 +619,67 @@
         "saith",
         "unto",
         "him,",
-        "|Feed",
-        "|my",
-        "|sheep."
+        "Feed",
+        "my",
+        "sheep."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 18,
       "text": [
-        "|Verily,",
-        "|verily,",
-        "|I",
-        "|say",
-        "|unto",
-        "|thee,",
-        "|When",
-        "|thou",
-        "|wast",
-        "|young,",
-        "|thou",
-        "|girdedst",
-        "|thyself,",
-        "|and",
-        "|walkedst",
-        "|whither",
-        "|thou",
-        "|wouldest:",
-        "|but",
-        "|when",
-        "|thou",
-        "|shalt",
-        "|be",
-        "|old,",
-        "|thou",
-        "|shalt",
-        "|stretch",
-        "|forth",
-        "|thy",
-        "|hands,",
-        "|and",
-        "|another",
-        "|shall",
-        "|gird",
-        "|thee,",
-        "|and",
-        "|carry",
-        "|*thee",
-        "|whither",
-        "|thou",
-        "|wouldest",
-        "|not."
+        "Verily,",
+        "verily,",
+        "I",
+        "say",
+        "unto",
+        "thee,",
+        "When",
+        "thou",
+        "wast",
+        "young,",
+        "thou",
+        "girdedst",
+        "thyself,",
+        "and",
+        "walkedst",
+        "whither",
+        "thou",
+        "wouldest:",
+        "but",
+        "when",
+        "thou",
+        "shalt",
+        "be",
+        "old,",
+        "thou",
+        "shalt",
+        "stretch",
+        "forth",
+        "thy",
+        "hands,",
+        "and",
+        "another",
+        "shall",
+        "gird",
+        "thee,",
+        "and",
+        "carry",
+        "*thee",
+        "whither",
+        "thou",
+        "wouldest",
+        "not."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 19,
       "text": [
         "This",
@@ -651,12 +703,15 @@
         "saith",
         "unto",
         "him,",
-        "|Follow",
-        "|me."
+        "Follow",
+        "me."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 20,
       "text": [
         "Then",
@@ -688,9 +743,12 @@
         "betrayeth",
         "thee?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 21,
       "text": [
         "Peter",
@@ -707,36 +765,42 @@
         "man",
         "*do?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 22,
       "text": [
         "Jesus",
         "saith",
         "unto",
         "him,",
-        "|If",
-        "|I",
-        "|will",
-        "|that",
-        "|he",
-        "|tarry",
-        "|till",
-        "|I",
-        "|come,",
-        "|what",
-        "|*is",
-        "|*that",
-        "|to",
-        "|thee?",
-        "|follow",
-        "|thou",
-        "|me."
+        "If",
+        "I",
+        "will",
+        "that",
+        "he",
+        "tarry",
+        "till",
+        "I",
+        "come,",
+        "what",
+        "*is",
+        "*that",
+        "to",
+        "thee?",
+        "follow",
+        "thou",
+        "me."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 23,
       "text": [
         "Then",
@@ -764,24 +828,27 @@
         "not",
         "die;",
         "but,",
-        "|If",
-        "|I",
-        "|will",
-        "|that",
-        "|he",
-        "|tarry",
-        "|till",
-        "|I",
-        "|come,",
-        "|what",
-        "|*is",
-        "|*that",
-        "|to",
-        "|thee?"
+        "If",
+        "I",
+        "will",
+        "that",
+        "he",
+        "tarry",
+        "till",
+        "I",
+        "come,",
+        "what",
+        "*is",
+        "*that",
+        "to",
+        "thee?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 24,
       "text": [
         "This",
@@ -806,9 +873,12 @@
         "is",
         "true."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "John",
+      "chapter": 21,
       "verse": 25,
       "text": [
         "And",
@@ -848,7 +918,8 @@
         "written.",
         "Amen."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

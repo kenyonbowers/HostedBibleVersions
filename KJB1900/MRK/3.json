@@ -1,12 +1,10 @@
 {
-  "book_id": "MRK",
   "book_name": "Mark",
   "chapter": 3,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 1,
       "text": [
         "And",
@@ -28,9 +26,12 @@
         "withered",
         "hand."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 2,
       "text": [
         "And",
@@ -52,9 +53,12 @@
         "accuse",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 3,
       "text": [
         "And",
@@ -68,12 +72,15 @@
         "the",
         "withered",
         "hand,",
-        "|Stand",
-        "|forth."
+        "Stand",
+        "forth."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 4,
       "text": [
         "And",
@@ -81,35 +88,38 @@
         "saith",
         "unto",
         "them,",
-        "|Is",
-        "|it",
-        "|lawful",
-        "|to",
-        "|do",
-        "|good",
-        "|on",
-        "|the",
-        "|sabbath",
-        "|days,",
-        "|or",
-        "|to",
-        "|do",
-        "|evil?",
-        "|to",
-        "|save",
-        "|life,",
-        "|or",
-        "|to",
-        "|kill?",
+        "Is",
+        "it",
+        "lawful",
+        "to",
+        "do",
+        "good",
+        "on",
+        "the",
+        "sabbath",
+        "days,",
+        "or",
+        "to",
+        "do",
+        "evil?",
+        "to",
+        "save",
+        "life,",
+        "or",
+        "to",
+        "kill?",
         "But",
         "they",
         "held",
         "their",
         "peace."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 5,
       "text": [
         "And",
@@ -136,10 +146,10 @@
         "unto",
         "the",
         "man,",
-        "|Stretch",
-        "|forth",
-        "|thine",
-        "|hand.",
+        "Stretch",
+        "forth",
+        "thine",
+        "hand.",
         "And",
         "he",
         "stretched",
@@ -155,9 +165,12 @@
         "the",
         "other."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 6,
       "text": [
         "And",
@@ -180,9 +193,12 @@
         "destroy",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 7,
       "text": [
         "But",
@@ -205,11 +221,14 @@
         "him,",
         "and",
         "from",
-        "Judaea,"
+        "Judæa,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 8,
       "text": [
         "And",
@@ -244,9 +263,12 @@
         "unto",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 9,
       "text": [
         "And",
@@ -273,9 +295,12 @@
         "throng",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 10,
       "text": [
         "For",
@@ -299,9 +324,12 @@
         "had",
         "plagues."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 11,
       "text": [
         "And",
@@ -325,9 +353,12 @@
         "of",
         "God."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 12,
       "text": [
         "And",
@@ -343,9 +374,12 @@
         "him",
         "known."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 13,
       "text": [
         "And",
@@ -368,9 +402,12 @@
         "unto",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 14,
       "text": [
         "And",
@@ -393,9 +430,12 @@
         "to",
         "preach,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 15,
       "text": [
         "And",
@@ -411,9 +451,12 @@
         "out",
         "devils:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 16,
       "text": [
         "And",
@@ -422,9 +465,12 @@
         "surnamed",
         "Peter;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 17,
       "text": [
         "And",
@@ -451,9 +497,12 @@
         "of",
         "thunder:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 18,
       "text": [
         "And",
@@ -479,9 +528,12 @@
         "the",
         "Canaanite,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 19,
       "text": [
         "And",
@@ -498,9 +550,12 @@
         "an",
         "house."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 20,
       "text": [
         "And",
@@ -520,9 +575,12 @@
         "eat",
         "bread."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 21,
       "text": [
         "And",
@@ -548,9 +606,12 @@
         "beside",
         "himself."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 22,
       "text": [
         "¶",
@@ -578,9 +639,12 @@
         "out",
         "devils."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 23,
       "text": [
         "And",
@@ -595,162 +659,183 @@
         "them",
         "in",
         "parables,",
-        "|How",
-        "|can",
-        "|Satan",
-        "|cast",
-        "|out",
-        "|Satan?"
+        "How",
+        "can",
+        "Satan",
+        "cast",
+        "out",
+        "Satan?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 24,
       "text": [
-        "|And",
-        "|if",
-        "|a",
-        "|kingdom",
-        "|be",
-        "|divided",
-        "|against",
-        "|itself,",
-        "|that",
-        "|kingdom",
-        "|cannot",
-        "|stand."
+        "And",
+        "if",
+        "a",
+        "kingdom",
+        "be",
+        "divided",
+        "against",
+        "itself,",
+        "that",
+        "kingdom",
+        "cannot",
+        "stand."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 25,
       "text": [
-        "|And",
-        "|if",
-        "|a",
-        "|house",
-        "|be",
-        "|divided",
-        "|against",
-        "|itself,",
-        "|that",
-        "|house",
-        "|cannot",
-        "|stand."
+        "And",
+        "if",
+        "a",
+        "house",
+        "be",
+        "divided",
+        "against",
+        "itself,",
+        "that",
+        "house",
+        "cannot",
+        "stand."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 26,
       "text": [
-        "|And",
-        "|if",
-        "|Satan",
-        "|rise",
-        "|up",
-        "|against",
-        "|himself,",
-        "|and",
-        "|be",
-        "|divided,",
-        "|he",
-        "|cannot",
-        "|stand,",
-        "|but",
-        "|hath",
-        "|an",
-        "|end."
+        "And",
+        "if",
+        "Satan",
+        "rise",
+        "up",
+        "against",
+        "himself,",
+        "and",
+        "be",
+        "divided,",
+        "he",
+        "cannot",
+        "stand,",
+        "but",
+        "hath",
+        "an",
+        "end."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 27,
       "text": [
-        "|No",
-        "|man",
-        "|can",
-        "|enter",
-        "|into",
-        "|a",
-        "|strong",
-        "|man's",
-        "|house,",
-        "|and",
-        "|spoil",
-        "|his",
-        "|goods,",
-        "|except",
-        "|he",
-        "|will",
-        "|first",
-        "|bind",
-        "|the",
-        "|strong",
-        "|man;",
-        "|and",
-        "|then",
-        "|he",
-        "|will",
-        "|spoil",
-        "|his",
-        "|house."
+        "No",
+        "man",
+        "can",
+        "enter",
+        "into",
+        "a",
+        "strong",
+        "man's",
+        "house,",
+        "and",
+        "spoil",
+        "his",
+        "goods,",
+        "except",
+        "he",
+        "will",
+        "first",
+        "bind",
+        "the",
+        "strong",
+        "man;",
+        "and",
+        "then",
+        "he",
+        "will",
+        "spoil",
+        "his",
+        "house."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 28,
       "text": [
-        "|Verily",
-        "|I",
-        "|say",
-        "|unto",
-        "|you,",
-        "|All",
-        "|sins",
-        "|shall",
-        "|be",
-        "|forgiven",
-        "|unto",
-        "|the",
-        "|sons",
-        "|of",
-        "|men,",
-        "|and",
-        "|blasphemies",
-        "|wherewith",
-        "|soever",
-        "|they",
-        "|shall",
-        "|blaspheme:"
+        "Verily",
+        "I",
+        "say",
+        "unto",
+        "you,",
+        "All",
+        "sins",
+        "shall",
+        "be",
+        "forgiven",
+        "unto",
+        "the",
+        "sons",
+        "of",
+        "men,",
+        "and",
+        "blasphemies",
+        "wherewith",
+        "soever",
+        "they",
+        "shall",
+        "blaspheme:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 29,
       "text": [
-        "|But",
-        "|he",
-        "|that",
-        "|shall",
-        "|blaspheme",
-        "|against",
-        "|the",
-        "|Holy",
-        "|Ghost",
-        "|hath",
-        "|never",
-        "|forgiveness,",
-        "|but",
-        "|is",
-        "|in",
-        "|danger",
-        "|of",
-        "|eternal",
-        "|damnation:"
+        "But",
+        "he",
+        "that",
+        "shall",
+        "blaspheme",
+        "against",
+        "the",
+        "Holy",
+        "Ghost",
+        "hath",
+        "never",
+        "forgiveness,",
+        "but",
+        "is",
+        "in",
+        "danger",
+        "of",
+        "eternal",
+        "damnation:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 30,
       "text": [
         "Because",
@@ -762,9 +847,12 @@
         "unclean",
         "spirit."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 31,
       "text": [
         "¶",
@@ -785,9 +873,12 @@
         "calling",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 32,
       "text": [
         "And",
@@ -812,9 +903,12 @@
         "for",
         "thee."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 33,
       "text": [
         "And",
@@ -822,17 +916,20 @@
         "answered",
         "them,",
         "saying,",
-        "|Who",
-        "|is",
-        "|my",
-        "|mother,",
-        "|or",
-        "|my",
-        "|brethren?"
+        "Who",
+        "is",
+        "my",
+        "mother,",
+        "or",
+        "my",
+        "brethren?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 34,
       "text": [
         "And",
@@ -848,38 +945,42 @@
         "him,",
         "and",
         "said,",
-        "|Behold",
-        "|my",
-        "|mother",
-        "|and",
-        "|my",
-        "|brethren!"
+        "Behold",
+        "my",
+        "mother",
+        "and",
+        "my",
+        "brethren!"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 3,
       "verse": 35,
       "text": [
-        "|For",
-        "|whosoever",
-        "|shall",
-        "|do",
-        "|the",
-        "|will",
-        "|of",
-        "|God,",
-        "|the",
-        "|same",
-        "|is",
-        "|my",
-        "|brother,",
-        "|and",
-        "|my",
-        "|sister,",
-        "|and",
-        "|mother."
+        "For",
+        "whosoever",
+        "shall",
+        "do",
+        "the",
+        "will",
+        "of",
+        "God,",
+        "the",
+        "same",
+        "is",
+        "my",
+        "brother,",
+        "and",
+        "my",
+        "sister,",
+        "and",
+        "mother."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

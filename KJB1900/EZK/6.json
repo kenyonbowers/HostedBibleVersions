@@ -1,12 +1,10 @@
 {
-  "book_id": "EZK",
   "book_name": "Ezekiel",
   "chapter": 6,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Ezekiel",
+      "chapter": 6,
       "verse": 1,
       "text": [
         "And",
@@ -14,15 +12,18 @@
         "word",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "came",
         "unto",
         "me,",
         "saying,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 6,
       "verse": 2,
       "text": [
         "Son",
@@ -41,9 +42,12 @@
         "against",
         "them,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 6,
       "verse": 3,
       "text": [
         "And",
@@ -58,12 +62,12 @@
         "of",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "Thus",
         "saith",
         "the",
         "Lord",
-        "GOD",
+        "Gᴏᴅ",
         "to",
         "the",
         "mountains,",
@@ -96,9 +100,12 @@
         "high",
         "places."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 6,
       "verse": 4,
       "text": [
         "And",
@@ -125,9 +132,12 @@
         "your",
         "idols."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 6,
       "verse": 5,
       "text": [
         "And",
@@ -156,9 +166,12 @@
         "your",
         "altars."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 6,
       "verse": 6,
       "text": [
         "In",
@@ -210,9 +223,12 @@
         "be",
         "abolished."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 6,
       "verse": 7,
       "text": [
         "And",
@@ -233,11 +249,14 @@
         "I",
         "*am",
         "the",
-        "LORD."
+        "Lᴏʀᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 6,
       "verse": 8,
       "text": [
         "¶",
@@ -269,9 +288,12 @@
         "the",
         "countries."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 6,
       "verse": 9,
       "text": [
         "And",
@@ -333,9 +355,12 @@
         "their",
         "abominations."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 6,
       "verse": 10,
       "text": [
         "And",
@@ -346,7 +371,7 @@
         "I",
         "*am",
         "the",
-        "LORD,",
+        "Lᴏʀᴅ,",
         "*and",
         "*that",
         "I",
@@ -364,9 +389,12 @@
         "unto",
         "them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 6,
       "verse": 11,
       "text": [
         "¶",
@@ -374,7 +402,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "Smite",
         "with",
         "thine",
@@ -412,9 +440,12 @@
         "the",
         "pestilence."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 6,
       "verse": 12,
       "text": [
         "He",
@@ -458,9 +489,12 @@
         "upon",
         "them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 6,
       "verse": 13,
       "text": [
         "Then",
@@ -471,7 +505,7 @@
         "I",
         "*am",
         "the",
-        "LORD,",
+        "Lᴏʀᴅ,",
         "when",
         "their",
         "slain",
@@ -519,9 +553,12 @@
         "their",
         "idols."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 6,
       "verse": 14,
       "text": [
         "So",
@@ -558,9 +595,10 @@
         "I",
         "*am",
         "the",
-        "LORD."
+        "Lᴏʀᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

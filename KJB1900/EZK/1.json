@@ -1,12 +1,10 @@
 {
-  "book_id": "EZK",
   "book_name": "Ezekiel",
   "chapter": 1,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 1,
       "text": [
         "Now",
@@ -52,9 +50,12 @@
         "of",
         "God."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 2,
       "text": [
         "In",
@@ -74,16 +75,19 @@
         "Jehoiachin's",
         "captivity,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 3,
       "text": [
         "The",
         "word",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "came",
         "expressly",
         "unto",
@@ -109,15 +113,18 @@
         "hand",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "was",
         "there",
         "upon",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 4,
       "text": [
         "¶",
@@ -166,9 +173,12 @@
         "the",
         "fire."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 5,
       "text": [
         "Also",
@@ -197,9 +207,12 @@
         "a",
         "man."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 6,
       "text": [
         "And",
@@ -215,9 +228,12 @@
         "four",
         "wings."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 7,
       "text": [
         "And",
@@ -250,9 +266,12 @@
         "burnished",
         "brass."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 8,
       "text": [
         "And",
@@ -280,9 +299,12 @@
         "their",
         "wings."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 9,
       "text": [
         "Their",
@@ -305,9 +327,12 @@
         "straight",
         "forward."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 10,
       "text": [
         "As",
@@ -358,9 +383,12 @@
         "an",
         "eagle."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 11,
       "text": [
         "Thus",
@@ -389,9 +417,12 @@
         "their",
         "bodies."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 12,
       "text": [
         "And",
@@ -417,9 +448,12 @@
         "they",
         "went."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 13,
       "text": [
         "As",
@@ -467,9 +501,12 @@
         "forth",
         "lightning."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 14,
       "text": [
         "And",
@@ -488,9 +525,12 @@
         "of",
         "lightning."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 15,
       "text": [
         "¶",
@@ -516,9 +556,12 @@
         "four",
         "faces."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 16,
       "text": [
         "The",
@@ -562,9 +605,12 @@
         "a",
         "wheel."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 17,
       "text": [
         "When",
@@ -584,9 +630,12 @@
         "they",
         "went."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 18,
       "text": [
         "As",
@@ -613,9 +662,12 @@
         "them",
         "four."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 19,
       "text": [
         "And",
@@ -646,9 +698,12 @@
         "lifted",
         "up."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 20,
       "text": [
         "Whithersoever",
@@ -686,9 +741,12 @@
         "the",
         "wheels."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 21,
       "text": [
         "When",
@@ -731,9 +789,12 @@
         "the",
         "wheels."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 22,
       "text": [
         "And",
@@ -764,9 +825,12 @@
         "heads",
         "above."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 23,
       "text": [
         "And",
@@ -804,9 +868,12 @@
         "their",
         "bodies."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 24,
       "text": [
         "And",
@@ -851,9 +918,12 @@
         "their",
         "wings."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 25,
       "text": [
         "And",
@@ -879,9 +949,12 @@
         "their",
         "wings."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 26,
       "text": [
         "¶",
@@ -927,9 +1000,12 @@
         "upon",
         "it."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 27,
       "text": [
         "And",
@@ -982,9 +1058,12 @@
         "round",
         "about."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 1,
       "verse": 28,
       "text": [
         "As",
@@ -1024,7 +1103,7 @@
         "glory",
         "of",
         "the",
-        "LORD.",
+        "Lᴏʀᴅ.",
         "And",
         "when",
         "I",
@@ -1045,7 +1124,8 @@
         "that",
         "spake."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

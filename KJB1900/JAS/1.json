@@ -1,12 +1,10 @@
 {
-  "book_id": "JAS",
   "book_name": "James",
   "chapter": 1,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 1,
       "text": [
         "James,",
@@ -30,9 +28,12 @@
         "abroad,",
         "greeting."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 2,
       "text": [
         "My",
@@ -48,9 +49,12 @@
         "divers",
         "temptations;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 3,
       "text": [
         "Knowing",
@@ -64,9 +68,12 @@
         "worketh",
         "patience."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 4,
       "text": [
         "But",
@@ -86,9 +93,12 @@
         "wanting",
         "nothing."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 5,
       "text": [
         "If",
@@ -118,9 +128,12 @@
         "given",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 6,
       "text": [
         "But",
@@ -149,9 +162,12 @@
         "and",
         "tossed."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 7,
       "text": [
         "For",
@@ -170,9 +186,12 @@
         "the",
         "Lord."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 8,
       "text": [
         "A",
@@ -186,9 +205,12 @@
         "his",
         "ways."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 9,
       "text": [
         "Let",
@@ -204,9 +226,12 @@
         "is",
         "exalted:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 10,
       "text": [
         "But",
@@ -230,9 +255,12 @@
         "pass",
         "away."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 11,
       "text": [
         "For",
@@ -277,9 +305,12 @@
         "his",
         "ways."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 12,
       "text": [
         "Blessed",
@@ -312,9 +343,12 @@
         "love",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 13,
       "text": [
         "Let",
@@ -343,9 +377,12 @@
         "any",
         "man:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 14,
       "text": [
         "But",
@@ -365,9 +402,12 @@
         "and",
         "enticed."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 15,
       "text": [
         "Then",
@@ -389,9 +429,12 @@
         "forth",
         "death."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 16,
       "text": [
         "Do",
@@ -401,9 +444,12 @@
         "beloved",
         "brethren."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 17,
       "text": [
         "Every",
@@ -434,9 +480,12 @@
         "of",
         "turning."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 18,
       "text": [
         "Of",
@@ -463,9 +512,12 @@
         "his",
         "creatures."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 19,
       "text": [
         "Wherefore,",
@@ -486,9 +538,12 @@
         "to",
         "wrath:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 20,
       "text": [
         "For",
@@ -503,9 +558,12 @@
         "of",
         "God."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 21,
       "text": [
         "Wherefore",
@@ -532,9 +590,12 @@
         "your",
         "souls."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 22,
       "text": [
         "But",
@@ -553,9 +614,12 @@
         "own",
         "selves."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 23,
       "text": [
         "For",
@@ -585,9 +649,12 @@
         "a",
         "glass:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 24,
       "text": [
         "For",
@@ -608,9 +675,12 @@
         "he",
         "was."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 25,
       "text": [
         "But",
@@ -646,9 +716,12 @@
         "his",
         "deed."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 26,
       "text": [
         "If",
@@ -676,9 +749,12 @@
         "*is",
         "vain."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 1,
       "verse": 27,
       "text": [
         "Pure",
@@ -710,7 +786,8 @@
         "the",
         "world."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

@@ -1,12 +1,10 @@
 {
-  "book_id": "JAS",
   "book_name": "James",
   "chapter": 5,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 1,
       "text": [
         "Go",
@@ -27,9 +25,12 @@
         "upon",
         "*you."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 2,
       "text": [
         "Your",
@@ -42,9 +43,12 @@
         "are",
         "motheaten."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 3,
       "text": [
         "Your",
@@ -83,9 +87,12 @@
         "last",
         "days."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 4,
       "text": [
         "Behold,",
@@ -128,9 +135,12 @@
         "of",
         "sabaoth."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 5,
       "text": [
         "Ye",
@@ -156,9 +166,12 @@
         "of",
         "slaughter."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 6,
       "text": [
         "Ye",
@@ -175,9 +188,12 @@
         "resist",
         "you."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 7,
       "text": [
         "Be",
@@ -216,9 +232,12 @@
         "latter",
         "rain."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 8,
       "text": [
         "Be",
@@ -237,9 +256,12 @@
         "draweth",
         "nigh."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 9,
       "text": [
         "Grudge",
@@ -260,9 +282,12 @@
         "the",
         "door."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 10,
       "text": [
         "Take,",
@@ -289,9 +314,12 @@
         "of",
         "patience."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 11,
       "text": [
         "Behold,",
@@ -328,9 +356,12 @@
         "tender",
         "mercy."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 12,
       "text": [
         "But",
@@ -369,9 +400,12 @@
         "into",
         "condemnation."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 13,
       "text": [
         "Is",
@@ -390,9 +424,12 @@
         "sing",
         "psalms."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 14,
       "text": [
         "Is",
@@ -426,9 +463,12 @@
         "the",
         "Lord:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 15,
       "text": [
         "And",
@@ -459,9 +499,12 @@
         "forgiven",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 16,
       "text": [
         "Confess",
@@ -491,9 +534,12 @@
         "availeth",
         "much."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 17,
       "text": [
         "Elias",
@@ -533,9 +579,12 @@
         "six",
         "months."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 18,
       "text": [
         "And",
@@ -555,9 +604,12 @@
         "her",
         "fruit."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 19,
       "text": [
         "Brethren,",
@@ -575,9 +627,12 @@
         "convert",
         "him;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 5,
       "verse": 20,
       "text": [
         "Let",
@@ -609,7 +664,8 @@
         "of",
         "sins."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

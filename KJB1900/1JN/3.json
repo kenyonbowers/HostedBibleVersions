@@ -1,12 +1,10 @@
 {
-  "book_id": "1JN",
   "book_name": "1 John",
   "chapter": 3,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 1,
       "text": [
         "Behold,",
@@ -41,9 +39,12 @@
         "him",
         "not."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 2,
       "text": [
         "Beloved,",
@@ -86,9 +87,12 @@
         "he",
         "is."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 3,
       "text": [
         "And",
@@ -108,9 +112,12 @@
         "is",
         "pure."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 4,
       "text": [
         "Whosoever",
@@ -129,9 +136,12 @@
         "the",
         "law."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 5,
       "text": [
         "And",
@@ -153,9 +163,12 @@
         "no",
         "sin."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 6,
       "text": [
         "Whosoever",
@@ -174,9 +187,12 @@
         "known",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 7,
       "text": [
         "Little",
@@ -198,9 +214,12 @@
         "is",
         "righteous."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 8,
       "text": [
         "He",
@@ -237,9 +256,12 @@
         "the",
         "devil."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 9,
       "text": [
         "Whosoever",
@@ -268,9 +290,12 @@
         "of",
         "God."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 10,
       "text": [
         "In",
@@ -303,9 +328,12 @@
         "his",
         "brother."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 11,
       "text": [
         "For",
@@ -326,9 +354,12 @@
         "one",
         "another."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 12,
       "text": [
         "Not",
@@ -360,9 +391,12 @@
         "brother's",
         "righteous."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 13,
       "text": [
         "Marvel",
@@ -375,9 +409,12 @@
         "hate",
         "you."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 14,
       "text": [
         "We",
@@ -405,9 +442,12 @@
         "in",
         "death."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 15,
       "text": [
         "Whosoever",
@@ -430,9 +470,12 @@
         "in",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 16,
       "text": [
         "Hereby",
@@ -462,9 +505,12 @@
         "the",
         "brethren."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 17,
       "text": [
         "But",
@@ -497,9 +543,12 @@
         "in",
         "him?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 18,
       "text": [
         "My",
@@ -521,9 +570,12 @@
         "in",
         "truth."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 19,
       "text": [
         "And",
@@ -544,9 +596,12 @@
         "before",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 20,
       "text": [
         "For",
@@ -566,9 +621,12 @@
         "all",
         "things."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 21,
       "text": [
         "Beloved,",
@@ -585,9 +643,12 @@
         "toward",
         "God."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 22,
       "text": [
         "And",
@@ -614,9 +675,12 @@
         "his",
         "sight."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 23,
       "text": [
         "And",
@@ -646,9 +710,12 @@
         "us",
         "commandment."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 3,
       "verse": 24,
       "text": [
         "And",
@@ -682,7 +749,8 @@
         "given",
         "us."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

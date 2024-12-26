@@ -1,12 +1,10 @@
 {
-  "book_id": "MRK",
   "book_name": "Mark",
   "chapter": 15,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 1,
       "text": [
         "And",
@@ -42,9 +40,12 @@
         "to",
         "Pilate."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 2,
       "text": [
         "And",
@@ -64,13 +65,16 @@
         "said",
         "unto",
         "him,",
-        "|Thou",
-        "|sayest",
-        "|*it."
+        "Thou",
+        "sayest",
+        "*it."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 3,
       "text": [
         "And",
@@ -87,9 +91,12 @@
         "answered",
         "nothing."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 4,
       "text": [
         "And",
@@ -110,9 +117,12 @@
         "against",
         "thee."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 5,
       "text": [
         "But",
@@ -125,9 +135,12 @@
         "Pilate",
         "marvelled."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 6,
       "text": [
         "Now",
@@ -144,9 +157,12 @@
         "they",
         "desired."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 7,
       "text": [
         "And",
@@ -174,9 +190,12 @@
         "the",
         "insurrection."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 8,
       "text": [
         "And",
@@ -198,9 +217,12 @@
         "unto",
         "them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 9,
       "text": [
         "But",
@@ -221,9 +243,12 @@
         "the",
         "Jews?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 10,
       "text": [
         "For",
@@ -239,9 +264,12 @@
         "for",
         "envy."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 11,
       "text": [
         "But",
@@ -260,9 +288,12 @@
         "unto",
         "them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 12,
       "text": [
         "And",
@@ -292,9 +323,12 @@
         "the",
         "Jews?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 13,
       "text": [
         "And",
@@ -305,9 +339,12 @@
         "Crucify",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 14,
       "text": [
         "Then",
@@ -331,9 +368,12 @@
         "Crucify",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 15,
       "text": [
         "¶",
@@ -361,9 +401,12 @@
         "be",
         "crucified."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 16,
       "text": [
         "And",
@@ -385,9 +428,12 @@
         "whole",
         "band."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 17,
       "text": [
         "And",
@@ -409,9 +455,12 @@
         "his",
         "*head,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 18,
       "text": [
         "And",
@@ -425,9 +474,12 @@
         "the",
         "Jews!"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 19,
       "text": [
         "And",
@@ -452,9 +504,12 @@
         "worshipped",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 20,
       "text": [
         "And",
@@ -485,9 +540,12 @@
         "crucify",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 21,
       "text": [
         "And",
@@ -516,9 +574,12 @@
         "his",
         "cross."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 22,
       "text": [
         "And",
@@ -539,9 +600,12 @@
         "a",
         "skull."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 23,
       "text": [
         "And",
@@ -560,9 +624,12 @@
         "*it",
         "not."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 24,
       "text": [
         "And",
@@ -585,9 +652,12 @@
         "should",
         "take."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 25,
       "text": [
         "And",
@@ -601,9 +671,12 @@
         "crucified",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 26,
       "text": [
         "And",
@@ -621,9 +694,12 @@
         "THE",
         "JEWS."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 27,
       "text": [
         "And",
@@ -646,9 +722,12 @@
         "his",
         "left."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 28,
       "text": [
         "And",
@@ -666,9 +745,12 @@
         "the",
         "transgressors."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 29,
       "text": [
         "And",
@@ -697,9 +779,12 @@
         "three",
         "days,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 30,
       "text": [
         "Save",
@@ -711,9 +796,12 @@
         "the",
         "cross."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 31,
       "text": [
         "Likewise",
@@ -736,9 +824,12 @@
         "cannot",
         "save."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 32,
       "text": [
         "Let",
@@ -768,9 +859,12 @@
         "reviled",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 33,
       "text": [
         "And",
@@ -792,9 +886,12 @@
         "ninth",
         "hour."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 34,
       "text": [
         "And",
@@ -809,10 +906,10 @@
         "loud",
         "voice,",
         "saying,",
-        "|Eloi,",
-        "|Eloi,",
-        "|lama",
-        "|sabachthani?",
+        "Eloi,",
+        "Eloi,",
+        "lama",
+        "sabachthani?",
         "which",
         "is,",
         "being",
@@ -827,9 +924,12 @@
         "forsaken",
         "me?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 35,
       "text": [
         "And",
@@ -849,9 +949,12 @@
         "calleth",
         "Elias."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 36,
       "text": [
         "And",
@@ -890,9 +993,12 @@
         "him",
         "down."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 37,
       "text": [
         "And",
@@ -908,9 +1014,12 @@
         "the",
         "ghost."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 38,
       "text": [
         "And",
@@ -930,9 +1039,12 @@
         "the",
         "bottom."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 39,
       "text": [
         "¶",
@@ -967,9 +1079,12 @@
         "of",
         "God."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 40,
       "text": [
         "There",
@@ -999,9 +1114,12 @@
         "and",
         "Salome;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 41,
       "text": [
         "(Who",
@@ -1029,9 +1147,12 @@
         "unto",
         "Jerusalem."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 42,
       "text": [
         "¶",
@@ -1055,9 +1176,12 @@
         "the",
         "sabbath,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 43,
       "text": [
         "Joseph",
@@ -1065,7 +1189,7 @@
         "Arimathaea,",
         "an",
         "honourable",
-        "counsellor,",
+        "counseller,",
         "which",
         "also",
         "waited",
@@ -1088,9 +1212,12 @@
         "of",
         "Jesus."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 44,
       "text": [
         "And",
@@ -1118,9 +1245,12 @@
         "while",
         "dead."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 45,
       "text": [
         "And",
@@ -1138,9 +1268,12 @@
         "to",
         "Joseph."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 46,
       "text": [
         "And",
@@ -1182,9 +1315,12 @@
         "the",
         "sepulchre."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 15,
       "verse": 47,
       "text": [
         "And",
@@ -1202,7 +1338,8 @@
         "was",
         "laid."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

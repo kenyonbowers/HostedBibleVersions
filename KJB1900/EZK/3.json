@@ -1,12 +1,10 @@
 {
-  "book_id": "EZK",
   "book_name": "Ezekiel",
   "chapter": 3,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 1,
       "text": [
         "Moreover",
@@ -33,9 +31,12 @@
         "of",
         "Israel."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 2,
       "text": [
         "So",
@@ -52,9 +53,12 @@
         "that",
         "roll."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 3,
       "text": [
         "And",
@@ -97,9 +101,12 @@
         "for",
         "sweetness."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 4,
       "text": [
         "¶",
@@ -127,9 +134,12 @@
         "unto",
         "them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 5,
       "text": [
         "For",
@@ -156,9 +166,12 @@
         "of",
         "Israel;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 6,
       "text": [
         "Not",
@@ -194,9 +207,12 @@
         "unto",
         "thee."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 7,
       "text": [
         "But",
@@ -227,9 +243,12 @@
         "and",
         "hardhearted."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 8,
       "text": [
         "Behold,",
@@ -250,9 +269,12 @@
         "their",
         "foreheads."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 9,
       "text": [
         "As",
@@ -282,9 +304,12 @@
         "rebellious",
         "house."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 10,
       "text": [
         "Moreover",
@@ -314,9 +339,12 @@
         "thine",
         "ears."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 11,
       "text": [
         "And",
@@ -345,7 +373,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "whether",
         "they",
         "will",
@@ -356,9 +384,12 @@
         "will",
         "forbear."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 12,
       "text": [
         "Then",
@@ -385,14 +416,17 @@
         "glory",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "from",
         "his",
         "place."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 13,
       "text": [
         "*I",
@@ -428,9 +462,12 @@
         "great",
         "rushing."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 14,
       "text": [
         "So",
@@ -459,15 +496,18 @@
         "hand",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "was",
         "strong",
         "upon",
         "me."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 15,
       "text": [
         "¶",
@@ -503,9 +543,12 @@
         "seven",
         "days."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 16,
       "text": [
         "And",
@@ -524,15 +567,18 @@
         "word",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "came",
         "unto",
         "me,",
         "saying,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 17,
       "text": [
         "Son",
@@ -563,9 +609,12 @@
         "from",
         "me."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 18,
       "text": [
         "When",
@@ -617,9 +666,12 @@
         "thine",
         "hand."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 19,
       "text": [
         "Yet",
@@ -653,9 +705,12 @@
         "thy",
         "soul."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 20,
       "text": [
         "Again,",
@@ -715,9 +770,12 @@
         "thine",
         "hand."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 21,
       "text": [
         "Nevertheless",
@@ -752,9 +810,12 @@
         "thy",
         "soul."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 22,
       "text": [
         "¶",
@@ -763,7 +824,7 @@
         "hand",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "was",
         "there",
         "upon",
@@ -787,9 +848,12 @@
         "with",
         "thee."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 23,
       "text": [
         "Then",
@@ -807,7 +871,7 @@
         "glory",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "stood",
         "there,",
         "as",
@@ -828,9 +892,12 @@
         "my",
         "face."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 24,
       "text": [
         "Then",
@@ -860,9 +927,12 @@
         "thine",
         "house."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 25,
       "text": [
         "But",
@@ -893,9 +963,12 @@
         "among",
         "them:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 26,
       "text": [
         "And",
@@ -931,9 +1004,12 @@
         "rebellious",
         "house."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 3,
       "verse": 27,
       "text": [
         "But",
@@ -957,7 +1033,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "He",
         "that",
         "heareth,",
@@ -978,7 +1054,8 @@
         "rebellious",
         "house."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

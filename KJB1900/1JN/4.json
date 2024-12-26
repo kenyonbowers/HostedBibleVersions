@@ -1,12 +1,10 @@
 {
-  "book_id": "1JN",
   "book_name": "1 John",
   "chapter": 4,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 1,
       "text": [
         "Beloved,",
@@ -34,9 +32,12 @@
         "the",
         "world."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 2,
       "text": [
         "Hereby",
@@ -62,9 +63,12 @@
         "of",
         "God:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 3,
       "text": [
         "And",
@@ -110,9 +114,12 @@
         "the",
         "world."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 4,
       "text": [
         "Ye",
@@ -141,9 +148,12 @@
         "the",
         "world."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 5,
       "text": [
         "They",
@@ -163,9 +173,12 @@
         "heareth",
         "them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 6,
       "text": [
         "We",
@@ -200,9 +213,12 @@
         "of",
         "error."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 7,
       "text": [
         "Beloved,",
@@ -229,9 +245,12 @@
         "knoweth",
         "God."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 8,
       "text": [
         "He",
@@ -246,9 +265,12 @@
         "is",
         "love."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 9,
       "text": [
         "In",
@@ -279,9 +301,12 @@
         "through",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 10,
       "text": [
         "Herein",
@@ -309,9 +334,12 @@
         "our",
         "sins."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 11,
       "text": [
         "Beloved,",
@@ -328,9 +356,12 @@
         "one",
         "another."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 12,
       "text": [
         "No",
@@ -358,9 +389,12 @@
         "in",
         "us."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 13,
       "text": [
         "Hereby",
@@ -384,9 +418,12 @@
         "his",
         "Spirit."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 14,
       "text": [
         "And",
@@ -410,9 +447,12 @@
         "the",
         "world."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 15,
       "text": [
         "Whosoever",
@@ -434,9 +474,12 @@
         "in",
         "God."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 16,
       "text": [
         "And",
@@ -469,9 +512,12 @@
         "in",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 17,
       "text": [
         "Herein",
@@ -501,9 +547,12 @@
         "this",
         "world."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 18,
       "text": [
         "There",
@@ -532,9 +581,12 @@
         "in",
         "love."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 19,
       "text": [
         "We",
@@ -546,9 +598,12 @@
         "loved",
         "us."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 20,
       "text": [
         "If",
@@ -588,9 +643,12 @@
         "not",
         "seen?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 4,
       "verse": 21,
       "text": [
         "And",
@@ -610,7 +668,8 @@
         "brother",
         "also."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

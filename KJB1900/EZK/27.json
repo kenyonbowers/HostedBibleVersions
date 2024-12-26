@@ -1,28 +1,29 @@
 {
-  "book_id": "EZK",
   "book_name": "Ezekiel",
   "chapter": 27,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 1,
       "text": [
         "The",
         "word",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "came",
         "again",
         "unto",
         "me,",
         "saying,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 2,
       "text": [
         "Now,",
@@ -37,9 +38,12 @@
         "for",
         "Tyrus;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 3,
       "text": [
         "And",
@@ -71,7 +75,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "O",
         "Tyrus,",
         "thou",
@@ -83,9 +87,12 @@
         "perfect",
         "beauty."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 4,
       "text": [
         "Thy",
@@ -104,9 +111,12 @@
         "thy",
         "beauty."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 5,
       "text": [
         "They",
@@ -133,9 +143,12 @@
         "for",
         "thee."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 6,
       "text": [
         "*Of",
@@ -167,9 +180,12 @@
         "of",
         "Chittim."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 7,
       "text": [
         "Fine",
@@ -203,9 +219,12 @@
         "covered",
         "thee."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 8,
       "text": [
         "The",
@@ -230,9 +249,12 @@
         "thy",
         "pilots."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 9,
       "text": [
         "The",
@@ -266,9 +288,12 @@
         "thy",
         "merchandise."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 10,
       "text": [
         "They",
@@ -302,9 +327,12 @@
         "thy",
         "comeliness."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 11,
       "text": [
         "The",
@@ -343,9 +371,12 @@
         "beauty",
         "perfect."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 12,
       "text": [
         "Tarshish",
@@ -374,9 +405,12 @@
         "thy",
         "fairs."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 13,
       "text": [
         "Javan,",
@@ -401,9 +435,12 @@
         "thy",
         "market."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 14,
       "text": [
         "They",
@@ -423,9 +460,12 @@
         "and",
         "mules."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 15,
       "text": [
         "The",
@@ -455,9 +495,12 @@
         "and",
         "ebony."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 16,
       "text": [
         "Syria",
@@ -494,9 +537,12 @@
         "and",
         "agate."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 17,
       "text": [
         "Judah,",
@@ -526,9 +572,12 @@
         "and",
         "balm."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 18,
       "text": [
         "Damascus",
@@ -559,9 +608,12 @@
         "white",
         "wool."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 19,
       "text": [
         "Dan",
@@ -586,9 +638,12 @@
         "thy",
         "market."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 20,
       "text": [
         "Dedan",
@@ -601,9 +656,12 @@
         "for",
         "chariots."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 21,
       "text": [
         "Arabia,",
@@ -630,9 +688,12 @@
         "thy",
         "merchants."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 22,
       "text": [
         "The",
@@ -663,9 +724,12 @@
         "and",
         "gold."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 23,
       "text": [
         "Haran,",
@@ -684,9 +748,12 @@
         "thy",
         "merchants."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 24,
       "text": [
         "These",
@@ -721,9 +788,12 @@
         "thy",
         "merchandise."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 25,
       "text": [
         "The",
@@ -752,9 +822,12 @@
         "the",
         "seas."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 26,
       "text": [
         "¶",
@@ -779,9 +852,12 @@
         "the",
         "seas."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 27,
       "text": [
         "Thy",
@@ -841,9 +917,12 @@
         "thy",
         "ruin."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 28,
       "text": [
         "The",
@@ -860,9 +939,12 @@
         "thy",
         "pilots."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 29,
       "text": [
         "And",
@@ -893,9 +975,12 @@
         "the",
         "land;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 30,
       "text": [
         "And",
@@ -928,9 +1013,12 @@
         "the",
         "ashes:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 31,
       "text": [
         "And",
@@ -961,9 +1049,12 @@
         "bitter",
         "wailing."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 32,
       "text": [
         "And",
@@ -998,9 +1089,12 @@
         "the",
         "sea?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 33,
       "text": [
         "When",
@@ -1035,9 +1129,12 @@
         "thy",
         "merchandise."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 34,
       "text": [
         "In",
@@ -1071,9 +1168,12 @@
         "shall",
         "fall."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 35,
       "text": [
         "All",
@@ -1102,9 +1202,12 @@
         "*their",
         "countenance."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 27,
       "verse": 36,
       "text": [
         "The",
@@ -1128,7 +1231,8 @@
         "any",
         "more."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

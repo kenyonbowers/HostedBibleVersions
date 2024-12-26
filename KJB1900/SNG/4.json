@@ -1,12 +1,10 @@
 {
-  "book_id": "SNG",
   "book_name": "Song of Solomon",
   "chapter": 4,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Song of Solomon",
+      "chapter": 4,
       "verse": 1,
       "text": [
         "Behold,",
@@ -40,9 +38,12 @@
         "mount",
         "Gilead."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 4,
       "verse": 2,
       "text": [
         "Thy",
@@ -75,9 +76,12 @@
         "among",
         "them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 4,
       "verse": 3,
       "text": [
         "Thy",
@@ -106,9 +110,12 @@
         "thy",
         "locks."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 4,
       "verse": 4,
       "text": [
         "Thy",
@@ -135,9 +142,12 @@
         "mighty",
         "men."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 4,
       "verse": 5,
       "text": [
         "Thy",
@@ -157,9 +167,12 @@
         "the",
         "lilies."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 4,
       "verse": 6,
       "text": [
         "Until",
@@ -187,9 +200,12 @@
         "of",
         "frankincense."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 4,
       "verse": 7,
       "text": [
         "Thou",
@@ -205,9 +221,12 @@
         "in",
         "thee."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 4,
       "verse": 8,
       "text": [
         "¶",
@@ -246,9 +265,12 @@
         "the",
         "leopards."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 4,
       "verse": 9,
       "text": [
         "Thou",
@@ -277,9 +299,12 @@
         "thy",
         "neck."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 4,
       "verse": 10,
       "text": [
         "How",
@@ -309,9 +334,12 @@
         "all",
         "spices!"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 4,
       "verse": 11,
       "text": [
         "Thy",
@@ -343,9 +371,12 @@
         "of",
         "Lebanon."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 4,
       "verse": 12,
       "text": [
         "A",
@@ -364,9 +395,12 @@
         "fountain",
         "sealed."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 4,
       "verse": 13,
       "text": [
         "Thy",
@@ -383,9 +417,12 @@
         "with",
         "spikenard,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 4,
       "verse": 14,
       "text": [
         "Spikenard",
@@ -408,9 +445,12 @@
         "chief",
         "spices:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 4,
       "verse": 15,
       "text": [
         "A",
@@ -427,9 +467,12 @@
         "from",
         "Lebanon."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 4,
       "verse": 16,
       "text": [
         "¶",
@@ -465,7 +508,8 @@
         "pleasant",
         "fruits."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

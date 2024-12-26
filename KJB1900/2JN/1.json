@@ -1,12 +1,10 @@
 {
-  "book_id": "2JN",
   "book_name": "2 John",
   "chapter": 1,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "2 John",
+      "chapter": 1,
       "verse": 1,
       "text": [
         "The",
@@ -38,9 +36,12 @@
         "the",
         "truth;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "2 John",
+      "chapter": 1,
       "verse": 2,
       "text": [
         "For",
@@ -59,9 +60,12 @@
         "for",
         "ever."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "2 John",
+      "chapter": 1,
       "verse": 3,
       "text": [
         "Grace",
@@ -91,9 +95,12 @@
         "and",
         "love."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "2 John",
+      "chapter": 1,
       "verse": 4,
       "text": [
         "I",
@@ -118,9 +125,12 @@
         "the",
         "Father."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "2 John",
+      "chapter": 1,
       "verse": 5,
       "text": [
         "And",
@@ -153,9 +163,12 @@
         "one",
         "another."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "2 John",
+      "chapter": 1,
       "verse": 6,
       "text": [
         "And",
@@ -186,9 +199,12 @@
         "in",
         "it."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "2 John",
+      "chapter": 1,
       "verse": 7,
       "text": [
         "For",
@@ -218,9 +234,12 @@
         "an",
         "antichrist."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "2 John",
+      "chapter": 1,
       "verse": 8,
       "text": [
         "Look",
@@ -244,9 +263,12 @@
         "full",
         "reward."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "2 John",
+      "chapter": 1,
       "verse": 9,
       "text": [
         "Whosoever",
@@ -279,9 +301,12 @@
         "the",
         "Son."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "2 John",
+      "chapter": 1,
       "verse": 10,
       "text": [
         "If",
@@ -307,9 +332,12 @@
         "God",
         "speed:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "2 John",
+      "chapter": 1,
       "verse": 11,
       "text": [
         "For",
@@ -326,9 +354,12 @@
         "evil",
         "deeds."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "2 John",
+      "chapter": 1,
       "verse": 12,
       "text": [
         "Having",
@@ -365,9 +396,12 @@
         "be",
         "full."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "2 John",
+      "chapter": 1,
       "verse": 13,
       "text": [
         "The",
@@ -380,7 +414,8 @@
         "thee.",
         "Amen."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

@@ -1,12 +1,10 @@
 {
-  "book_id": "JAS",
   "book_name": "James",
   "chapter": 3,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "James",
+      "chapter": 3,
       "verse": 1,
       "text": [
         "My",
@@ -24,9 +22,12 @@
         "greater",
         "condemnation."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 3,
       "verse": 2,
       "text": [
         "For",
@@ -58,9 +59,12 @@
         "whole",
         "body."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 3,
       "verse": 3,
       "text": [
         "Behold,",
@@ -84,9 +88,12 @@
         "whole",
         "body."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 3,
       "verse": 4,
       "text": [
         "Behold",
@@ -120,9 +127,12 @@
         "governor",
         "listeth."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 3,
       "verse": 5,
       "text": [
         "Even",
@@ -147,9 +157,12 @@
         "fire",
         "kindleth!"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 3,
       "verse": 6,
       "text": [
         "And",
@@ -192,9 +205,12 @@
         "of",
         "hell."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 3,
       "verse": 7,
       "text": [
         "For",
@@ -223,9 +239,12 @@
         "of",
         "mankind:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 3,
       "verse": 8,
       "text": [
         "But",
@@ -245,9 +264,12 @@
         "deadly",
         "poison."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 3,
       "verse": 9,
       "text": [
         "Therewith",
@@ -271,9 +293,12 @@
         "of",
         "God."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 3,
       "verse": 10,
       "text": [
         "Out",
@@ -295,9 +320,12 @@
         "to",
         "be."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 3,
       "verse": 11,
       "text": [
         "Doth",
@@ -314,9 +342,12 @@
         "and",
         "bitter?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 3,
       "verse": 12,
       "text": [
         "Can",
@@ -343,9 +374,12 @@
         "and",
         "fresh."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 3,
       "verse": 13,
       "text": [
         "Who",
@@ -374,9 +408,12 @@
         "of",
         "wisdom."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 3,
       "verse": 14,
       "text": [
         "But",
@@ -399,9 +436,12 @@
         "the",
         "truth."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 3,
       "verse": 15,
       "text": [
         "This",
@@ -416,9 +456,12 @@
         "sensual,",
         "devilish."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 3,
       "verse": 16,
       "text": [
         "For",
@@ -435,9 +478,12 @@
         "evil",
         "work."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 3,
       "verse": 17,
       "text": [
         "But",
@@ -470,9 +516,12 @@
         "without",
         "hypocrisy."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 3,
       "verse": 18,
       "text": [
         "And",
@@ -490,7 +539,8 @@
         "make",
         "peace."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

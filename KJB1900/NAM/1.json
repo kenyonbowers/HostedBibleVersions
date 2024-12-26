@@ -1,12 +1,10 @@
 {
-  "book_id": "NAM",
   "book_name": "Nahum",
   "chapter": 1,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Nahum",
+      "chapter": 1,
       "verse": 1,
       "text": [
         "The",
@@ -23,9 +21,12 @@
         "the",
         "Elkoshite."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 1,
       "verse": 2,
       "text": [
         "God",
@@ -33,16 +34,16 @@
         "jealous,",
         "and",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "revengeth;",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "revengeth,",
         "and",
         "*is",
         "furious;",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "will",
         "take",
         "vengeance",
@@ -57,13 +58,16 @@
         "his",
         "enemies."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 1,
       "verse": 3,
       "text": [
         "The",
-        "LORD",
+        "Lᴏʀᴅ",
         "*is",
         "slow",
         "to",
@@ -81,8 +85,8 @@
         "*the",
         "*wicked:",
         "the",
-        "LORD",
-        "hath",
+        "Lᴏʀᴅ",
+        "*hath",
         "his",
         "way",
         "in",
@@ -102,9 +106,12 @@
         "his",
         "feet."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 1,
       "verse": 4,
       "text": [
         "He",
@@ -132,9 +139,12 @@
         "Lebanon",
         "languisheth."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 1,
       "verse": 5,
       "text": [
         "The",
@@ -163,9 +173,12 @@
         "dwell",
         "therein."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 1,
       "verse": 6,
       "text": [
         "Who",
@@ -200,13 +213,16 @@
         "by",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 1,
       "verse": 7,
       "text": [
         "The",
-        "LORD",
+        "Lᴏʀᴅ",
         "*is",
         "good,",
         "a",
@@ -226,9 +242,12 @@
         "in",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 1,
       "verse": 8,
       "text": [
         "But",
@@ -253,9 +272,12 @@
         "his",
         "enemies."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 1,
       "verse": 9,
       "text": [
         "What",
@@ -264,7 +286,7 @@
         "imagine",
         "against",
         "the",
-        "LORD?",
+        "Lᴏʀᴅ?",
         "he",
         "will",
         "make",
@@ -280,9 +302,12 @@
         "second",
         "time."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 1,
       "verse": 10,
       "text": [
         "For",
@@ -309,9 +334,12 @@
         "fully",
         "dry."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 1,
       "verse": 11,
       "text": [
         "There",
@@ -326,20 +354,23 @@
         "evil",
         "against",
         "the",
-        "LORD,",
+        "Lᴏʀᴅ,",
         "a",
         "wicked",
-        "counsellor."
+        "counseller."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 1,
       "verse": 12,
       "text": [
         "Thus",
         "saith",
         "the",
-        "LORD;",
+        "Lᴏʀᴅ;",
         "Though",
         "*they",
         "*be",
@@ -371,9 +402,12 @@
         "no",
         "more."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 1,
       "verse": 13,
       "text": [
         "For",
@@ -394,14 +428,17 @@
         "in",
         "sunder."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 1,
       "verse": 14,
       "text": [
         "And",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "hath",
         "given",
         "a",
@@ -444,9 +481,12 @@
         "art",
         "vile."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 1,
       "verse": 15,
       "text": [
         "Behold",
@@ -488,7 +528,8 @@
         "cut",
         "off."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

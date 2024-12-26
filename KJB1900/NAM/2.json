@@ -1,12 +1,10 @@
 {
-  "book_id": "NAM",
   "book_name": "Nahum",
   "chapter": 2,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Nahum",
+      "chapter": 2,
       "verse": 1,
       "text": [
         "He",
@@ -35,14 +33,17 @@
         "power",
         "mightily."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 2,
       "verse": 2,
       "text": [
         "For",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "hath",
         "turned",
         "away",
@@ -68,9 +69,12 @@
         "vine",
         "branches."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 2,
       "verse": 3,
       "text": [
         "The",
@@ -110,9 +114,12 @@
         "terribly",
         "shaken."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 2,
       "verse": 4,
       "text": [
         "The",
@@ -144,9 +151,12 @@
         "the",
         "lightnings."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 2,
       "verse": 5,
       "text": [
         "He",
@@ -175,9 +185,12 @@
         "be",
         "prepared."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 2,
       "verse": 6,
       "text": [
         "The",
@@ -195,9 +208,12 @@
         "be",
         "dissolved."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 2,
       "verse": 7,
       "text": [
         "And",
@@ -229,9 +245,12 @@
         "their",
         "breasts."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 2,
       "verse": 8,
       "text": [
         "But",
@@ -260,9 +279,12 @@
         "look",
         "back."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 2,
       "verse": 9,
       "text": [
         "Take",
@@ -293,9 +315,12 @@
         "pleasant",
         "furniture."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 2,
       "verse": 10,
       "text": [
         "She",
@@ -330,9 +355,12 @@
         "gather",
         "blackness."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 2,
       "verse": 11,
       "text": [
         "Where",
@@ -367,9 +395,12 @@
         "*them",
         "afraid?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 2,
       "verse": 12,
       "text": [
         "The",
@@ -399,9 +430,12 @@
         "with",
         "ravin."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 2,
       "verse": 13,
       "text": [
         "Behold,",
@@ -411,7 +445,7 @@
         "thee,",
         "saith",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "of",
         "hosts,",
         "and",
@@ -453,7 +487,8 @@
         "be",
         "heard."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

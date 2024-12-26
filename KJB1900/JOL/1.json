@@ -1,19 +1,17 @@
 {
-  "book_id": "JOL",
   "book_name": "Joel",
   "chapter": 1,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 1,
       "text": [
         "The",
         "word",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "that",
         "came",
         "to",
@@ -23,9 +21,12 @@
         "of",
         "Pethuel."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 2,
       "text": [
         "Hear",
@@ -57,9 +58,12 @@
         "your",
         "fathers?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 3,
       "text": [
         "Tell",
@@ -81,9 +85,12 @@
         "another",
         "generation."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 4,
       "text": [
         "That",
@@ -119,9 +126,12 @@
         "caterpiller",
         "eaten."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 5,
       "text": [
         "Awake,",
@@ -150,9 +160,12 @@
         "your",
         "mouth."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 6,
       "text": [
         "For",
@@ -187,9 +200,12 @@
         "great",
         "lion."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 7,
       "text": [
         "He",
@@ -220,9 +236,12 @@
         "made",
         "white."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 8,
       "text": [
         "¶",
@@ -240,9 +259,12 @@
         "her",
         "youth."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 9,
       "text": [
         "The",
@@ -260,17 +282,20 @@
         "house",
         "of",
         "the",
-        "LORD;",
+        "Lᴏʀᴅ;",
         "the",
         "priests,",
         "the",
-        "LORD'S",
+        "Lᴏʀᴅ's",
         "ministers,",
         "mourn."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 10,
       "text": [
         "The",
@@ -295,9 +320,12 @@
         "oil",
         "languisheth."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 11,
       "text": [
         "Be",
@@ -326,9 +354,12 @@
         "is",
         "perished."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 12,
       "text": [
         "The",
@@ -372,9 +403,12 @@
         "of",
         "men."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 13,
       "text": [
         "Gird",
@@ -417,9 +451,12 @@
         "your",
         "God."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 14,
       "text": [
         "¶",
@@ -446,18 +483,21 @@
         "house",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "your",
         "God,",
         "and",
         "cry",
         "unto",
         "the",
-        "LORD,"
+        "Lᴏʀᴅ,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 15,
       "text": [
         "Alas",
@@ -469,7 +509,7 @@
         "day",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "*is",
         "at",
         "hand,",
@@ -484,9 +524,12 @@
         "it",
         "come."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 16,
       "text": [
         "Is",
@@ -509,9 +552,12 @@
         "our",
         "God?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 17,
       "text": [
         "The",
@@ -537,9 +583,12 @@
         "is",
         "withered."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 18,
       "text": [
         "How",
@@ -567,13 +616,16 @@
         "made",
         "desolate."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 19,
       "text": [
         "O",
-        "LORD,",
+        "Lᴏʀᴅ,",
         "to",
         "thee",
         "will",
@@ -601,9 +653,12 @@
         "the",
         "field."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Joel",
+      "chapter": 1,
       "verse": 20,
       "text": [
         "The",
@@ -634,7 +689,8 @@
         "the",
         "wilderness."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

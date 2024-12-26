@@ -1,12 +1,10 @@
 {
-  "book_id": "EZK",
   "book_name": "Ezekiel",
   "chapter": 17,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 1,
       "text": [
         "And",
@@ -14,15 +12,18 @@
         "word",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "came",
         "unto",
         "me,",
         "saying,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 2,
       "text": [
         "Son",
@@ -42,9 +43,12 @@
         "of",
         "Israel;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 3,
       "text": [
         "And",
@@ -53,7 +57,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "A",
         "great",
         "eagle",
@@ -80,9 +84,12 @@
         "the",
         "cedar:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 4,
       "text": [
         "He",
@@ -111,9 +118,12 @@
         "of",
         "merchants."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 5,
       "text": [
         "He",
@@ -146,9 +156,12 @@
         "willow",
         "tree."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 6,
       "text": [
         "And",
@@ -188,9 +201,12 @@
         "forth",
         "sprigs."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 7,
       "text": [
         "There",
@@ -234,9 +250,12 @@
         "her",
         "plantation."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 8,
       "text": [
         "It",
@@ -269,9 +288,12 @@
         "goodly",
         "vine."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 9,
       "text": [
         "Say",
@@ -280,7 +302,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "Shall",
         "it",
         "prosper?",
@@ -327,9 +349,12 @@
         "roots",
         "thereof."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 10,
       "text": [
         "Yea,",
@@ -360,9 +385,12 @@
         "it",
         "grew."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 11,
       "text": [
         "¶",
@@ -371,15 +399,18 @@
         "word",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "came",
         "unto",
         "me,",
         "saying,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 12,
       "text": [
         "Say",
@@ -424,9 +455,12 @@
         "to",
         "Babylon;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 13,
       "text": [
         "And",
@@ -459,9 +493,12 @@
         "the",
         "land:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 14,
       "text": [
         "That",
@@ -488,9 +525,12 @@
         "might",
         "stand."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 15,
       "text": [
         "But",
@@ -533,9 +573,12 @@
         "be",
         "delivered?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 16,
       "text": [
         "*As",
@@ -544,7 +587,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD,",
+        "Gᴏᴅ,",
         "surely",
         "in",
         "the",
@@ -578,9 +621,12 @@
         "shall",
         "die."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 17,
       "text": [
         "Neither",
@@ -612,9 +658,12 @@
         "many",
         "persons:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 18,
       "text": [
         "Seeing",
@@ -644,9 +693,12 @@
         "not",
         "escape."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 19,
       "text": [
         "Therefore",
@@ -654,7 +706,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "*As",
         "I",
         "live,",
@@ -682,9 +734,12 @@
         "own",
         "head."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 20,
       "text": [
         "And",
@@ -726,9 +781,12 @@
         "against",
         "me."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 21,
       "text": [
         "And",
@@ -761,14 +819,17 @@
         "that",
         "I",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "have",
         "spoken",
         "*it."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 22,
       "text": [
         "¶",
@@ -776,7 +837,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "I",
         "will",
         "also",
@@ -818,9 +879,12 @@
         "and",
         "eminent:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 23,
       "text": [
         "In",
@@ -870,9 +934,12 @@
         "they",
         "dwell."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 17,
       "verse": 24,
       "text": [
         "And",
@@ -887,7 +954,7 @@
         "that",
         "I",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "have",
         "brought",
         "down",
@@ -915,7 +982,7 @@
         "flourish:",
         "I",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "have",
         "spoken",
         "and",
@@ -923,7 +990,8 @@
         "done",
         "*it."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

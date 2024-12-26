@@ -1,12 +1,10 @@
 {
-  "book_id": "MRK",
   "book_name": "Mark",
   "chapter": 6,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 1,
       "text": [
         "And",
@@ -27,9 +25,12 @@
         "follow",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 2,
       "text": [
         "And",
@@ -81,9 +82,12 @@
         "his",
         "hands?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 3,
       "text": [
         "Is",
@@ -121,9 +125,12 @@
         "at",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 4,
       "text": [
         "But",
@@ -131,31 +138,34 @@
         "said",
         "unto",
         "them,",
-        "|A",
-        "|prophet",
-        "|is",
-        "|not",
-        "|without",
-        "|honour,",
-        "|but",
-        "|in",
-        "|his",
-        "|own",
-        "|country,",
-        "|and",
-        "|among",
-        "|his",
-        "|own",
-        "|kin,",
-        "|and",
-        "|in",
-        "|his",
-        "|own",
-        "|house."
+        "A",
+        "prophet",
+        "is",
+        "not",
+        "without",
+        "honour,",
+        "but",
+        "in",
+        "his",
+        "own",
+        "country,",
+        "and",
+        "among",
+        "his",
+        "own",
+        "kin,",
+        "and",
+        "in",
+        "his",
+        "own",
+        "house."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 5,
       "text": [
         "And",
@@ -181,9 +191,12 @@
         "healed",
         "*them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 6,
       "text": [
         "And",
@@ -202,9 +215,12 @@
         "villages,",
         "teaching."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 7,
       "text": [
         "¶",
@@ -233,9 +249,12 @@
         "unclean",
         "spirits;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 8,
       "text": [
         "And",
@@ -263,9 +282,12 @@
         "*their",
         "purse:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 9,
       "text": [
         "But",
@@ -280,9 +302,12 @@
         "two",
         "coats."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 10,
       "text": [
         "And",
@@ -290,81 +315,87 @@
         "said",
         "unto",
         "them,",
-        "|In",
-        "|what",
-        "|place",
-        "|soever",
-        "|ye",
-        "|enter",
-        "|into",
-        "|an",
-        "|house,",
-        "|there",
-        "|abide",
-        "|till",
-        "|ye",
-        "|depart",
-        "|from",
-        "|that",
-        "|place."
+        "In",
+        "what",
+        "place",
+        "soever",
+        "ye",
+        "enter",
+        "into",
+        "an",
+        "house,",
+        "there",
+        "abide",
+        "till",
+        "ye",
+        "depart",
+        "from",
+        "that",
+        "place."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 11,
       "text": [
-        "|And",
-        "|whosoever",
-        "|shall",
-        "|not",
-        "|receive",
-        "|you,",
-        "|nor",
-        "|hear",
-        "|you,",
-        "|when",
-        "|ye",
-        "|depart",
-        "|thence,",
-        "|shake",
-        "|off",
-        "|the",
-        "|dust",
-        "|under",
-        "|your",
-        "|feet",
-        "|for",
-        "|a",
-        "|testimony",
-        "|against",
-        "|them.",
-        "|Verily",
-        "|I",
-        "|say",
-        "|unto",
-        "|you,",
-        "|It",
-        "|shall",
-        "|be",
-        "|more",
-        "|tolerable",
-        "|for",
-        "|Sodom",
-        "|and",
-        "|Gomorrha",
-        "|in",
-        "|the",
-        "|day",
-        "|of",
-        "|judgment,",
-        "|than",
-        "|for",
-        "|that",
-        "|city."
+        "And",
+        "whosoever",
+        "shall",
+        "not",
+        "receive",
+        "you,",
+        "nor",
+        "hear",
+        "you,",
+        "when",
+        "ye",
+        "depart",
+        "thence,",
+        "shake",
+        "off",
+        "the",
+        "dust",
+        "under",
+        "your",
+        "feet",
+        "for",
+        "a",
+        "testimony",
+        "against",
+        "them.",
+        "Verily",
+        "I",
+        "say",
+        "unto",
+        "you,",
+        "It",
+        "shall",
+        "be",
+        "more",
+        "tolerable",
+        "for",
+        "Sodom",
+        "and",
+        "Gomorrha",
+        "in",
+        "the",
+        "day",
+        "of",
+        "judgment,",
+        "than",
+        "for",
+        "that",
+        "city."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 12,
       "text": [
         "And",
@@ -378,9 +409,12 @@
         "should",
         "repent."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 13,
       "text": [
         "And",
@@ -401,9 +435,12 @@
         "healed",
         "*them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 14,
       "text": [
         "And",
@@ -441,9 +478,12 @@
         "in",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 15,
       "text": [
         "Others",
@@ -467,9 +507,12 @@
         "the",
         "prophets."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 16,
       "text": [
         "But",
@@ -492,9 +535,12 @@
         "the",
         "dead."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 17,
       "text": [
         "For",
@@ -526,9 +572,12 @@
         "married",
         "her."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 18,
       "text": [
         "For",
@@ -549,9 +598,12 @@
         "brother's",
         "wife."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 19,
       "text": [
         "Therefore",
@@ -571,9 +623,12 @@
         "could",
         "not:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 20,
       "text": [
         "For",
@@ -607,9 +662,12 @@
         "him",
         "gladly."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 21,
       "text": [
         "And",
@@ -638,9 +696,12 @@
         "of",
         "Galilee;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 22,
       "text": [
         "And",
@@ -683,9 +744,12 @@
         "*it",
         "thee."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 23,
       "text": [
         "And",
@@ -711,9 +775,12 @@
         "my",
         "kingdom."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 24,
       "text": [
         "And",
@@ -739,9 +806,12 @@
         "the",
         "Baptist."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 25,
       "text": [
         "And",
@@ -776,9 +846,12 @@
         "the",
         "Baptist."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 26,
       "text": [
         "And",
@@ -806,9 +879,12 @@
         "reject",
         "her."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 27,
       "text": [
         "And",
@@ -835,9 +911,12 @@
         "the",
         "prison,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 28,
       "text": [
         "And",
@@ -862,9 +941,12 @@
         "her",
         "mother."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 29,
       "text": [
         "And",
@@ -888,9 +970,12 @@
         "a",
         "tomb."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 30,
       "text": [
         "And",
@@ -917,9 +1002,12 @@
         "had",
         "taught."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 31,
       "text": [
         "And",
@@ -927,18 +1015,18 @@
         "said",
         "unto",
         "them,",
-        "|Come",
-        "|ye",
-        "|yourselves",
-        "|apart",
-        "|into",
-        "|a",
-        "|desert",
-        "|place,",
-        "|and",
-        "|rest",
-        "|a",
-        "|while:",
+        "Come",
+        "ye",
+        "yourselves",
+        "apart",
+        "into",
+        "a",
+        "desert",
+        "place,",
+        "and",
+        "rest",
+        "a",
+        "while:",
         "for",
         "there",
         "were",
@@ -957,9 +1045,12 @@
         "to",
         "eat."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 32,
       "text": [
         "And",
@@ -973,9 +1064,12 @@
         "ship",
         "privately."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 33,
       "text": [
         "And",
@@ -1005,9 +1099,12 @@
         "unto",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 34,
       "text": [
         "And",
@@ -1044,9 +1141,12 @@
         "many",
         "things."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 35,
       "text": [
         "And",
@@ -1077,9 +1177,12 @@
         "far",
         "passed:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 36,
       "text": [
         "Send",
@@ -1109,9 +1212,12 @@
         "to",
         "eat."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 37,
       "text": [
         "He",
@@ -1120,11 +1226,11 @@
         "said",
         "unto",
         "them,",
-        "|Give",
-        "|ye",
-        "|them",
-        "|to",
-        "|eat.",
+        "Give",
+        "ye",
+        "them",
+        "to",
+        "eat.",
         "And",
         "they",
         "say",
@@ -1146,23 +1252,26 @@
         "to",
         "eat?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 38,
       "text": [
         "He",
         "saith",
         "unto",
         "them,",
-        "|How",
-        "|many",
-        "|loaves",
-        "|have",
-        "|ye?",
-        "|go",
-        "|and",
-        "|see.",
+        "How",
+        "many",
+        "loaves",
+        "have",
+        "ye?",
+        "go",
+        "and",
+        "see.",
         "And",
         "when",
         "they",
@@ -1174,9 +1283,12 @@
         "two",
         "fishes."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 39,
       "text": [
         "And",
@@ -1195,9 +1307,12 @@
         "green",
         "grass."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 40,
       "text": [
         "And",
@@ -1212,9 +1327,12 @@
         "by",
         "fifties."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 41,
       "text": [
         "And",
@@ -1260,9 +1378,12 @@
         "them",
         "all."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 42,
       "text": [
         "And",
@@ -1274,9 +1395,12 @@
         "were",
         "filled."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 43,
       "text": [
         "And",
@@ -1294,9 +1418,12 @@
         "the",
         "fishes."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 44,
       "text": [
         "And",
@@ -1313,9 +1440,12 @@
         "thousand",
         "men."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 45,
       "text": [
         "And",
@@ -1346,9 +1476,12 @@
         "the",
         "people."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 46,
       "text": [
         "And",
@@ -1366,9 +1499,12 @@
         "to",
         "pray."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 47,
       "text": [
         "And",
@@ -1392,9 +1528,12 @@
         "the",
         "land."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 48,
       "text": [
         "And",
@@ -1434,9 +1573,12 @@
         "by",
         "them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 49,
       "text": [
         "But",
@@ -1459,9 +1601,12 @@
         "cried",
         "out:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 50,
       "text": [
         "For",
@@ -1482,20 +1627,23 @@
         "saith",
         "unto",
         "them,",
-        "|Be",
-        "|of",
-        "|good",
-        "|cheer:",
-        "|it",
-        "|is",
-        "|I;",
-        "|be",
-        "|not",
-        "|afraid."
+        "Be",
+        "of",
+        "good",
+        "cheer:",
+        "it",
+        "is",
+        "I;",
+        "be",
+        "not",
+        "afraid."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 51,
       "text": [
         "And",
@@ -1523,9 +1671,12 @@
         "and",
         "wondered."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 52,
       "text": [
         "For",
@@ -1543,9 +1694,12 @@
         "was",
         "hardened."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 53,
       "text": [
         "And",
@@ -1567,9 +1721,12 @@
         "the",
         "shore."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 54,
       "text": [
         "And",
@@ -1586,9 +1743,12 @@
         "knew",
         "him,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 55,
       "text": [
         "And",
@@ -1616,9 +1776,12 @@
         "he",
         "was."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 6,
       "verse": 56,
       "text": [
         "And",
@@ -1664,7 +1827,8 @@
         "made",
         "whole."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

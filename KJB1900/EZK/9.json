@@ -1,12 +1,10 @@
 {
-  "book_id": "EZK",
   "book_name": "Ezekiel",
   "chapter": 9,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Ezekiel",
+      "chapter": 9,
       "verse": 1,
       "text": [
         "He",
@@ -42,9 +40,12 @@
         "his",
         "hand."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 9,
       "verse": 2,
       "text": [
         "And,",
@@ -100,9 +101,12 @@
         "brasen",
         "altar."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 9,
       "verse": 3,
       "text": [
         "And",
@@ -146,14 +150,17 @@
         "his",
         "side;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 9,
       "verse": 4,
       "text": [
         "And",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "said",
         "unto",
         "him,",
@@ -196,9 +203,12 @@
         "midst",
         "thereof."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 9,
       "verse": 5,
       "text": [
         "¶",
@@ -230,9 +240,12 @@
         "ye",
         "pity:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 9,
       "verse": 6,
       "text": [
         "Slay",
@@ -276,9 +289,12 @@
         "the",
         "house."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 9,
       "verse": 7,
       "text": [
         "And",
@@ -309,9 +325,12 @@
         "the",
         "city."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 9,
       "verse": 8,
       "text": [
         "¶",
@@ -341,7 +360,7 @@
         "said,",
         "Ah",
         "Lord",
-        "GOD!",
+        "Gᴏᴅ!",
         "wilt",
         "thou",
         "destroy",
@@ -360,9 +379,12 @@
         "upon",
         "Jerusalem?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 9,
       "verse": 9,
       "text": [
         "Then",
@@ -399,20 +421,23 @@
         "they",
         "say,",
         "The",
-        "LORD",
+        "Lᴏʀᴅ",
         "hath",
         "forsaken",
         "the",
         "earth,",
         "and",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "seeth",
         "not."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 9,
       "verse": 10,
       "text": [
         "And",
@@ -440,9 +465,12 @@
         "their",
         "head."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 9,
       "verse": 11,
       "text": [
         "And,",
@@ -472,7 +500,8 @@
         "commanded",
         "me."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

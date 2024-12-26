@@ -1,12 +1,10 @@
 {
-  "book_id": "SNG",
   "book_name": "Song of Solomon",
   "chapter": 6,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Song of Solomon",
+      "chapter": 6,
       "verse": 1,
       "text": [
         "Whither",
@@ -33,9 +31,12 @@
         "with",
         "thee."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 6,
       "verse": 2,
       "text": [
         "My",
@@ -61,9 +62,12 @@
         "gather",
         "lilies."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 6,
       "verse": 3,
       "text": [
         "I",
@@ -81,9 +85,12 @@
         "the",
         "lilies."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 6,
       "verse": 4,
       "text": [
         "¶",
@@ -105,9 +112,12 @@
         "with",
         "banners."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 6,
       "verse": 5,
       "text": [
         "Turn",
@@ -134,9 +144,12 @@
         "from",
         "Gilead."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 6,
       "verse": 6,
       "text": [
         "Thy",
@@ -167,9 +180,12 @@
         "among",
         "them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 6,
       "verse": 7,
       "text": [
         "As",
@@ -185,9 +201,12 @@
         "thy",
         "locks."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 6,
       "verse": 8,
       "text": [
         "There",
@@ -202,9 +221,12 @@
         "without",
         "number."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 6,
       "verse": 9,
       "text": [
         "My",
@@ -250,9 +272,12 @@
         "praised",
         "her."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 6,
       "verse": 10,
       "text": [
         "¶",
@@ -281,9 +306,12 @@
         "with",
         "banners?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 6,
       "verse": 11,
       "text": [
         "I",
@@ -313,9 +341,12 @@
         "pomegranates",
         "budded."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 6,
       "verse": 12,
       "text": [
         "Or",
@@ -333,9 +364,12 @@
         "of",
         "Amminadib."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 6,
       "verse": 13,
       "text": [
         "Return,",
@@ -366,7 +400,8 @@
         "two",
         "armies."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

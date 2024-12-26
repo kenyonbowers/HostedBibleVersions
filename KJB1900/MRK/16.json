@@ -1,12 +1,10 @@
 {
-  "book_id": "MRK",
   "book_name": "Mark",
   "chapter": 16,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 1,
       "text": [
         "And",
@@ -37,9 +35,12 @@
         "anoint",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 2,
       "text": [
         "And",
@@ -66,9 +67,12 @@
         "the",
         "sun."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 3,
       "text": [
         "And",
@@ -90,9 +94,12 @@
         "the",
         "sepulchre?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 4,
       "text": [
         "And",
@@ -113,9 +120,12 @@
         "very",
         "great."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 5,
       "text": [
         "And",
@@ -144,9 +154,12 @@
         "were",
         "affrighted."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 6,
       "text": [
         "And",
@@ -180,9 +193,12 @@
         "laid",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 7,
       "text": [
         "But",
@@ -212,9 +228,12 @@
         "unto",
         "you."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 8,
       "text": [
         "And",
@@ -246,9 +265,12 @@
         "were",
         "afraid."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 9,
       "text": [
         "¶",
@@ -279,9 +301,12 @@
         "seven",
         "devils."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 10,
       "text": [
         "*And",
@@ -301,9 +326,12 @@
         "and",
         "wept."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 11,
       "text": [
         "And",
@@ -325,9 +353,12 @@
         "believed",
         "not."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 12,
       "text": [
         "¶",
@@ -351,9 +382,12 @@
         "the",
         "country."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 13,
       "text": [
         "And",
@@ -370,9 +404,12 @@
         "they",
         "them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 14,
       "text": [
         "¶",
@@ -411,9 +448,12 @@
         "was",
         "risen."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 15,
       "text": [
         "And",
@@ -421,108 +461,120 @@
         "said",
         "unto",
         "them,",
-        "|Go",
-        "|ye",
-        "|into",
-        "|all",
-        "|the",
-        "|world,",
-        "|and",
-        "|preach",
-        "|the",
-        "|gospel",
-        "|to",
-        "|every",
-        "|creature."
+        "Go",
+        "ye",
+        "into",
+        "all",
+        "the",
+        "world,",
+        "and",
+        "preach",
+        "the",
+        "gospel",
+        "to",
+        "every",
+        "creature."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 16,
       "text": [
-        "|He",
-        "|that",
-        "|believeth",
-        "|and",
-        "|is",
-        "|baptized",
-        "|shall",
-        "|be",
-        "|saved;",
-        "|but",
-        "|he",
-        "|that",
-        "|believeth",
-        "|not",
-        "|shall",
-        "|be",
-        "|damned."
+        "He",
+        "that",
+        "believeth",
+        "and",
+        "is",
+        "baptized",
+        "shall",
+        "be",
+        "saved;",
+        "but",
+        "he",
+        "that",
+        "believeth",
+        "not",
+        "shall",
+        "be",
+        "damned."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 17,
       "text": [
-        "|And",
-        "|these",
-        "|signs",
-        "|shall",
-        "|follow",
-        "|them",
-        "|that",
-        "|believe;",
-        "|In",
-        "|my",
-        "|name",
-        "|shall",
-        "|they",
-        "|cast",
-        "|out",
-        "|devils;",
-        "|they",
-        "|shall",
-        "|speak",
-        "|with",
-        "|new",
-        "|tongues;"
+        "And",
+        "these",
+        "signs",
+        "shall",
+        "follow",
+        "them",
+        "that",
+        "believe;",
+        "In",
+        "my",
+        "name",
+        "shall",
+        "they",
+        "cast",
+        "out",
+        "devils;",
+        "they",
+        "shall",
+        "speak",
+        "with",
+        "new",
+        "tongues;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 18,
       "text": [
-        "|They",
-        "|shall",
-        "|take",
-        "|up",
-        "|serpents;",
-        "|and",
-        "|if",
-        "|they",
-        "|drink",
-        "|any",
-        "|deadly",
-        "|thing,",
-        "|it",
-        "|shall",
-        "|not",
-        "|hurt",
-        "|them;",
-        "|they",
-        "|shall",
-        "|lay",
-        "|hands",
-        "|on",
-        "|the",
-        "|sick,",
-        "|and",
-        "|they",
-        "|shall",
-        "|recover."
+        "They",
+        "shall",
+        "take",
+        "up",
+        "serpents;",
+        "and",
+        "if",
+        "they",
+        "drink",
+        "any",
+        "deadly",
+        "thing,",
+        "it",
+        "shall",
+        "not",
+        "hurt",
+        "them;",
+        "they",
+        "shall",
+        "lay",
+        "hands",
+        "on",
+        "the",
+        "sick,",
+        "and",
+        "they",
+        "shall",
+        "recover."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 19,
       "text": [
         "¶",
@@ -550,9 +602,12 @@
         "of",
         "God."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 16,
       "verse": 20,
       "text": [
         "And",
@@ -577,7 +632,8 @@
         "following.",
         "Amen."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

@@ -1,12 +1,10 @@
 {
-  "book_id": "NAM",
   "book_name": "Nahum",
   "chapter": 3,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Nahum",
+      "chapter": 3,
       "verse": 1,
       "text": [
         "Woe",
@@ -27,9 +25,12 @@
         "departeth",
         "not;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 3,
       "verse": 2,
       "text": [
         "The",
@@ -57,9 +58,12 @@
         "jumping",
         "chariots."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 3,
       "verse": 3,
       "text": [
         "The",
@@ -101,9 +105,12 @@
         "their",
         "corpses:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 3,
       "verse": 4,
       "text": [
         "Because",
@@ -133,9 +140,12 @@
         "her",
         "witchcrafts."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 3,
       "verse": 5,
       "text": [
         "Behold,",
@@ -145,7 +155,7 @@
         "thee,",
         "saith",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "of",
         "hosts;",
         "and",
@@ -171,9 +181,12 @@
         "thy",
         "shame."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 3,
       "verse": 6,
       "text": [
         "And",
@@ -196,9 +209,12 @@
         "a",
         "gazingstock."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 3,
       "verse": 7,
       "text": [
         "And",
@@ -236,9 +252,12 @@
         "for",
         "thee?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 3,
       "verse": 8,
       "text": [
         "Art",
@@ -273,9 +292,12 @@
         "the",
         "sea?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 3,
       "verse": 9,
       "text": [
         "Ethiopia",
@@ -295,9 +317,12 @@
         "thy",
         "helpers."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 3,
       "verse": 10,
       "text": [
         "Yet",
@@ -342,9 +367,12 @@
         "in",
         "chains."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 3,
       "verse": 11,
       "text": [
         "Thou",
@@ -366,9 +394,12 @@
         "the",
         "enemy."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 3,
       "verse": 12,
       "text": [
         "All",
@@ -399,9 +430,12 @@
         "the",
         "eater."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 3,
       "verse": 13,
       "text": [
         "Behold,",
@@ -434,9 +468,12 @@
         "thy",
         "bars."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 3,
       "verse": 14,
       "text": [
         "Draw",
@@ -461,9 +498,12 @@
         "the",
         "brickkiln."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 3,
       "verse": 15,
       "text": [
         "There",
@@ -499,9 +539,12 @@
         "the",
         "locusts."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 3,
       "verse": 16,
       "text": [
         "Thou",
@@ -521,9 +564,12 @@
         "flieth",
         "away."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 3,
       "verse": 17,
       "text": [
         "Thy",
@@ -566,9 +612,12 @@
         "they",
         "*are."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 3,
       "verse": 18,
       "text": [
         "Thy",
@@ -598,9 +647,12 @@
         "gathereth",
         "*them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Nahum",
+      "chapter": 3,
       "verse": 19,
       "text": [
         "*There",
@@ -637,7 +689,8 @@
         "passed",
         "continually?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

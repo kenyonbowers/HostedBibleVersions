@@ -1,12 +1,10 @@
 {
-  "book_id": "3JN",
   "book_name": "3 John",
   "chapter": 1,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "3 John",
+      "chapter": 1,
       "verse": 1,
       "text": [
         "The",
@@ -22,9 +20,12 @@
         "the",
         "truth."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "3 John",
+      "chapter": 1,
       "verse": 2,
       "text": [
         "Beloved,",
@@ -47,9 +48,12 @@
         "soul",
         "prospereth."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "3 John",
+      "chapter": 1,
       "verse": 3,
       "text": [
         "For",
@@ -77,9 +81,12 @@
         "the",
         "truth."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "3 John",
+      "chapter": 1,
       "verse": 4,
       "text": [
         "I",
@@ -97,9 +104,12 @@
         "in",
         "truth."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "3 John",
+      "chapter": 1,
       "verse": 5,
       "text": [
         "Beloved,",
@@ -116,9 +126,12 @@
         "to",
         "strangers;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "3 John",
+      "chapter": 1,
       "verse": 6,
       "text": [
         "Which",
@@ -148,9 +161,12 @@
         "do",
         "well:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "3 John",
+      "chapter": 1,
       "verse": 7,
       "text": [
         "Because",
@@ -168,9 +184,12 @@
         "the",
         "Gentiles."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "3 John",
+      "chapter": 1,
       "verse": 8,
       "text": [
         "We",
@@ -188,9 +207,12 @@
         "the",
         "truth."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "3 John",
+      "chapter": 1,
       "verse": 9,
       "text": [
         "I",
@@ -212,9 +234,12 @@
         "us",
         "not."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "3 John",
+      "chapter": 1,
       "verse": 10,
       "text": [
         "Wherefore,",
@@ -259,9 +284,12 @@
         "the",
         "church."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "3 John",
+      "chapter": 1,
       "verse": 11,
       "text": [
         "Beloved,",
@@ -293,9 +321,12 @@
         "seen",
         "God."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "3 John",
+      "chapter": 1,
       "verse": 12,
       "text": [
         "Demetrius",
@@ -325,9 +356,12 @@
         "is",
         "true."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "3 John",
+      "chapter": 1,
       "verse": 13,
       "text": [
         "I",
@@ -348,9 +382,12 @@
         "unto",
         "thee:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "3 John",
+      "chapter": 1,
       "verse": 14,
       "text": [
         "But",
@@ -382,7 +419,8 @@
         "by",
         "name."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

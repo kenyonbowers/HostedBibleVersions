@@ -1,12 +1,10 @@
 {
-  "book_id": "EZK",
   "book_name": "Ezekiel",
   "chapter": 11,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 1,
       "text": [
         "Moreover",
@@ -24,7 +22,7 @@
         "gate",
         "of",
         "the",
-        "LORD'S",
+        "Lᴏʀᴅ's",
         "house,",
         "which",
         "looketh",
@@ -61,9 +59,12 @@
         "the",
         "people."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 2,
       "text": [
         "Then",
@@ -89,9 +90,12 @@
         "this",
         "city:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 3,
       "text": [
         "Which",
@@ -115,9 +119,12 @@
         "the",
         "flesh."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 4,
       "text": [
         "¶",
@@ -131,9 +138,12 @@
         "of",
         "man."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 5,
       "text": [
         "And",
@@ -141,7 +151,7 @@
         "Spirit",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "fell",
         "upon",
         "me,",
@@ -153,7 +163,7 @@
         "Thus",
         "saith",
         "the",
-        "LORD;",
+        "Lᴏʀᴅ;",
         "Thus",
         "have",
         "ye",
@@ -177,9 +187,12 @@
         "*of",
         "them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 6,
       "text": [
         "Ye",
@@ -201,9 +214,12 @@
         "the",
         "slain."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 7,
       "text": [
         "Therefore",
@@ -211,7 +227,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "Your",
         "slain",
         "whom",
@@ -246,9 +262,12 @@
         "of",
         "it."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 8,
       "text": [
         "Ye",
@@ -267,11 +286,14 @@
         "saith",
         "the",
         "Lord",
-        "GOD."
+        "Gᴏᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 9,
       "text": [
         "And",
@@ -299,9 +321,12 @@
         "among",
         "you."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 10,
       "text": [
         "Ye",
@@ -327,11 +352,14 @@
         "I",
         "*am",
         "the",
-        "LORD."
+        "Lᴏʀᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 11,
       "text": [
         "This",
@@ -362,9 +390,12 @@
         "of",
         "Israel:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 12,
       "text": [
         "And",
@@ -375,7 +406,7 @@
         "I",
         "*am",
         "the",
-        "LORD:",
+        "Lᴏʀᴅ:",
         "for",
         "ye",
         "have",
@@ -403,9 +434,12 @@
         "about",
         "you."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 13,
       "text": [
         "¶",
@@ -441,7 +475,7 @@
         "said,",
         "Ah",
         "Lord",
-        "GOD!",
+        "Gᴏᴅ!",
         "wilt",
         "thou",
         "make",
@@ -454,9 +488,12 @@
         "of",
         "Israel?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 14,
       "text": [
         "Again",
@@ -464,15 +501,18 @@
         "word",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "came",
         "unto",
         "me,",
         "saying,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 15,
       "text": [
         "Son",
@@ -510,7 +550,7 @@
         "far",
         "from",
         "the",
-        "LORD:",
+        "Lᴏʀᴅ:",
         "unto",
         "us",
         "is",
@@ -520,9 +560,12 @@
         "in",
         "possession."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 16,
       "text": [
         "Therefore",
@@ -531,7 +574,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "Although",
         "I",
         "have",
@@ -569,9 +612,12 @@
         "shall",
         "come."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 17,
       "text": [
         "Therefore",
@@ -580,7 +626,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "I",
         "will",
         "even",
@@ -611,9 +657,12 @@
         "of",
         "Israel."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 18,
       "text": [
         "And",
@@ -639,9 +688,12 @@
         "from",
         "thence."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 19,
       "text": [
         "And",
@@ -680,9 +732,12 @@
         "of",
         "flesh:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 20,
       "text": [
         "That",
@@ -712,9 +767,12 @@
         "their",
         "God."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 21,
       "text": [
         "But",
@@ -746,11 +804,14 @@
         "saith",
         "the",
         "Lord",
-        "GOD."
+        "Gᴏᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 22,
       "text": [
         "¶",
@@ -780,9 +841,12 @@
         "them",
         "above."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 23,
       "text": [
         "And",
@@ -790,7 +854,7 @@
         "glory",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "went",
         "up",
         "from",
@@ -814,9 +878,12 @@
         "the",
         "city."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 24,
       "text": [
         "¶",
@@ -856,9 +923,12 @@
         "from",
         "me."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 11,
       "verse": 25,
       "text": [
         "Then",
@@ -874,12 +944,13 @@
         "things",
         "that",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "had",
         "shewed",
         "me."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

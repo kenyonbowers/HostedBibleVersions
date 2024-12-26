@@ -1,12 +1,10 @@
 {
-  "book_id": "EZK",
   "book_name": "Ezekiel",
   "chapter": 38,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 1,
       "text": [
         "And",
@@ -14,15 +12,18 @@
         "word",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "came",
         "unto",
         "me,",
         "saying,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 2,
       "text": [
         "Son",
@@ -49,9 +50,12 @@
         "against",
         "him,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 3,
       "text": [
         "And",
@@ -60,7 +64,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "Behold,",
         "I",
         "*am",
@@ -76,9 +80,12 @@
         "and",
         "Tubal:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 4,
       "text": [
         "And",
@@ -129,9 +136,12 @@
         "handling",
         "swords:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 5,
       "text": [
         "Persia,",
@@ -148,9 +158,12 @@
         "and",
         "helmet:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 6,
       "text": [
         "Gomer,",
@@ -176,9 +189,12 @@
         "with",
         "thee."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 7,
       "text": [
         "Be",
@@ -206,9 +222,12 @@
         "unto",
         "them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 8,
       "text": [
         "¶",
@@ -271,9 +290,12 @@
         "of",
         "them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 9,
       "text": [
         "Thou",
@@ -305,16 +327,19 @@
         "with",
         "thee."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 10,
       "text": [
         "Thus",
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "It",
         "shall",
         "also",
@@ -340,9 +365,12 @@
         "evil",
         "thought:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 11,
       "text": [
         "And",
@@ -384,9 +412,12 @@
         "nor",
         "gates,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 12,
       "text": [
         "To",
@@ -436,9 +467,12 @@
         "the",
         "land."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 13,
       "text": [
         "Sheba,",
@@ -493,9 +527,12 @@
         "great",
         "spoil?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 14,
       "text": [
         "¶",
@@ -512,7 +549,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "In",
         "that",
         "day",
@@ -529,9 +566,12 @@
         "know",
         "*it?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 15,
       "text": [
         "And",
@@ -566,9 +606,12 @@
         "mighty",
         "army:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 16,
       "text": [
         "And",
@@ -622,16 +665,19 @@
         "their",
         "eyes."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 17,
       "text": [
         "Thus",
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "*Art",
         "thou",
         "he",
@@ -665,9 +711,12 @@
         "against",
         "them?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 18,
       "text": [
         "And",
@@ -692,7 +741,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD,",
+        "Gᴏᴅ,",
         "*that",
         "my",
         "fury",
@@ -703,9 +752,12 @@
         "my",
         "face."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 19,
       "text": [
         "For",
@@ -738,9 +790,12 @@
         "of",
         "Israel;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 20,
       "text": [
         "So",
@@ -810,9 +865,12 @@
         "the",
         "ground."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 21,
       "text": [
         "And",
@@ -831,7 +889,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD:",
+        "Gᴏᴅ:",
         "every",
         "man's",
         "sword",
@@ -841,9 +899,12 @@
         "his",
         "brother."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 22,
       "text": [
         "And",
@@ -886,9 +947,12 @@
         "and",
         "brimstone."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 38,
       "verse": 23,
       "text": [
         "Thus",
@@ -918,9 +982,10 @@
         "I",
         "*am",
         "the",
-        "LORD."
+        "Lᴏʀᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

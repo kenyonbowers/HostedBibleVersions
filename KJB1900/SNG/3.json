@@ -1,12 +1,10 @@
 {
-  "book_id": "SNG",
   "book_name": "Song of Solomon",
   "chapter": 3,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Song of Solomon",
+      "chapter": 3,
       "verse": 1,
       "text": [
         "By",
@@ -30,9 +28,12 @@
         "him",
         "not."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 3,
       "verse": 2,
       "text": [
         "I",
@@ -69,9 +70,12 @@
         "him",
         "not."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 3,
       "verse": 3,
       "text": [
         "The",
@@ -95,9 +99,12 @@
         "soul",
         "loveth?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 3,
       "verse": 4,
       "text": [
         "*It",
@@ -146,9 +153,12 @@
         "conceived",
         "me."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 3,
       "verse": 5,
       "text": [
         "I",
@@ -182,9 +192,12 @@
         "he",
         "please."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 3,
       "verse": 6,
       "text": [
         "¶",
@@ -213,9 +226,12 @@
         "the",
         "merchant?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 3,
       "verse": 7,
       "text": [
         "Behold",
@@ -236,9 +252,12 @@
         "of",
         "Israel."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 3,
       "verse": 8,
       "text": [
         "They",
@@ -264,9 +283,12 @@
         "the",
         "night."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 3,
       "verse": 9,
       "text": [
         "King",
@@ -281,9 +303,12 @@
         "of",
         "Lebanon."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 3,
       "verse": 10,
       "text": [
         "He",
@@ -317,9 +342,12 @@
         "of",
         "Jerusalem."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 3,
       "verse": 11,
       "text": [
         "Go",
@@ -358,7 +386,8 @@
         "his",
         "heart."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

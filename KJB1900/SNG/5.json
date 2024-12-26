@@ -1,12 +1,10 @@
 {
-  "book_id": "SNG",
   "book_name": "Song of Solomon",
   "chapter": 5,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Song of Solomon",
+      "chapter": 5,
       "verse": 1,
       "text": [
         "I",
@@ -53,9 +51,12 @@
         "O",
         "beloved."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 5,
       "verse": 2,
       "text": [
         "¶",
@@ -103,9 +104,12 @@
         "the",
         "night."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 5,
       "verse": 3,
       "text": [
         "I",
@@ -131,9 +135,12 @@
         "defile",
         "them?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 5,
       "verse": 4,
       "text": [
         "My",
@@ -156,9 +163,12 @@
         "for",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 5,
       "verse": 5,
       "text": [
         "I",
@@ -189,9 +199,12 @@
         "the",
         "lock."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 5,
       "verse": 6,
       "text": [
         "I",
@@ -233,9 +246,12 @@
         "no",
         "answer."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 5,
       "verse": 7,
       "text": [
         "The",
@@ -265,9 +281,12 @@
         "from",
         "me."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 5,
       "verse": 8,
       "text": [
         "I",
@@ -293,9 +312,12 @@
         "of",
         "love."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 5,
       "verse": 9,
       "text": [
         "¶",
@@ -327,9 +349,12 @@
         "charge",
         "us?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 5,
       "verse": 10,
       "text": [
         "My",
@@ -344,9 +369,12 @@
         "ten",
         "thousand."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 5,
       "verse": 11,
       "text": [
         "His",
@@ -367,9 +395,12 @@
         "a",
         "raven."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 5,
       "verse": 12,
       "text": [
         "His",
@@ -392,9 +423,12 @@
         "fitly",
         "set."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 5,
       "verse": 13,
       "text": [
         "His",
@@ -417,9 +451,12 @@
         "smelling",
         "myrrh."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 5,
       "verse": 14,
       "text": [
         "His",
@@ -442,9 +479,12 @@
         "*with",
         "sapphires."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 5,
       "verse": 15,
       "text": [
         "His",
@@ -470,9 +510,12 @@
         "the",
         "cedars."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 5,
       "verse": 16,
       "text": [
         "His",
@@ -499,7 +542,8 @@
         "of",
         "Jerusalem."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

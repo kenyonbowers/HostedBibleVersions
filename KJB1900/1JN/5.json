@@ -1,12 +1,10 @@
 {
-  "book_id": "1JN",
   "book_name": "1 John",
   "chapter": 5,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 1,
       "text": [
         "Whosoever",
@@ -37,9 +35,12 @@
         "of",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 2,
       "text": [
         "By",
@@ -62,9 +63,12 @@
         "his",
         "commandments."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 3,
       "text": [
         "For",
@@ -86,9 +90,12 @@
         "not",
         "grievous."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 4,
       "text": [
         "For",
@@ -113,9 +120,12 @@
         "our",
         "faith."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 5,
       "text": [
         "Who",
@@ -137,9 +147,12 @@
         "of",
         "God?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 6,
       "text": [
         "This",
@@ -177,9 +190,12 @@
         "is",
         "truth."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 7,
       "text": [
         "For",
@@ -205,9 +221,12 @@
         "are",
         "one."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 8,
       "text": [
         "And",
@@ -220,7 +239,7 @@
         "in",
         "earth,",
         "the",
-        "Spirit,",
+        "spirit,",
         "and",
         "the",
         "water,",
@@ -234,9 +253,12 @@
         "in",
         "one."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 9,
       "text": [
         "If",
@@ -267,9 +289,12 @@
         "his",
         "Son."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 10,
       "text": [
         "He",
@@ -308,9 +333,12 @@
         "his",
         "Son."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 11,
       "text": [
         "And",
@@ -334,9 +362,12 @@
         "his",
         "Son."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 12,
       "text": [
         "He",
@@ -359,9 +390,12 @@
         "not",
         "life."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 13,
       "text": [
         "These",
@@ -404,9 +438,12 @@
         "of",
         "God."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 14,
       "text": [
         "And",
@@ -433,9 +470,12 @@
         "heareth",
         "us:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 15,
       "text": [
         "And",
@@ -462,9 +502,12 @@
         "of",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 16,
       "text": [
         "If",
@@ -514,9 +557,12 @@
         "for",
         "it."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 17,
       "text": [
         "All",
@@ -532,9 +578,12 @@
         "unto",
         "death."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 18,
       "text": [
         "We",
@@ -564,9 +613,12 @@
         "him",
         "not."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 19,
       "text": [
         "*And",
@@ -585,9 +637,12 @@
         "in",
         "wickedness."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 20,
       "text": [
         "And",
@@ -637,9 +692,12 @@
         "eternal",
         "life."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "1 John",
+      "chapter": 5,
       "verse": 21,
       "text": [
         "Little",
@@ -650,7 +708,8 @@
         "idols.",
         "Amen."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

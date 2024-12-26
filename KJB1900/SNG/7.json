@@ -1,12 +1,10 @@
 {
-  "book_id": "SNG",
   "book_name": "Song of Solomon",
   "chapter": 7,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Song of Solomon",
+      "chapter": 7,
       "verse": 1,
       "text": [
         "How",
@@ -37,9 +35,12 @@
         "cunning",
         "workman."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 7,
       "verse": 2,
       "text": [
         "Thy",
@@ -66,9 +67,12 @@
         "with",
         "lilies."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 7,
       "verse": 3,
       "text": [
         "Thy",
@@ -83,9 +87,12 @@
         "*are",
         "twins."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 7,
       "verse": 4,
       "text": [
         "Thy",
@@ -121,9 +128,12 @@
         "toward",
         "Damascus."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 7,
       "verse": 5,
       "text": [
         "Thine",
@@ -149,9 +159,12 @@
         "the",
         "galleries."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 7,
       "verse": 6,
       "text": [
         "How",
@@ -166,9 +179,12 @@
         "for",
         "delights!"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 7,
       "verse": 7,
       "text": [
         "This",
@@ -188,9 +204,12 @@
         "*of",
         "*grapes."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 7,
       "verse": 8,
       "text": [
         "I",
@@ -231,9 +250,12 @@
         "like",
         "apples;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 7,
       "verse": 9,
       "text": [
         "And",
@@ -264,9 +286,12 @@
         "to",
         "speak."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 7,
       "verse": 10,
       "text": [
         "¶",
@@ -281,9 +306,12 @@
         "toward",
         "me."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 7,
       "verse": 11,
       "text": [
         "Come,",
@@ -303,9 +331,12 @@
         "the",
         "villages."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 7,
       "verse": 12,
       "text": [
         "Let",
@@ -341,9 +372,12 @@
         "my",
         "loves."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 7,
       "verse": 13,
       "text": [
         "The",
@@ -375,7 +409,8 @@
         "my",
         "beloved."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

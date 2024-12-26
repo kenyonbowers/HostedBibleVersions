@@ -1,12 +1,10 @@
 {
-  "book_id": "EZK",
   "book_name": "Ezekiel",
   "chapter": 4,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Ezekiel",
+      "chapter": 4,
       "verse": 1,
       "text": [
         "Thou",
@@ -32,9 +30,12 @@
         "*even",
         "Jerusalem:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 4,
       "verse": 2,
       "text": [
         "And",
@@ -69,9 +70,12 @@
         "round",
         "about."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 4,
       "verse": 3,
       "text": [
         "Moreover",
@@ -124,9 +128,12 @@
         "of",
         "Israel."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 4,
       "verse": 4,
       "text": [
         "Lie",
@@ -166,9 +173,12 @@
         "their",
         "iniquity."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 4,
       "verse": 5,
       "text": [
         "For",
@@ -206,9 +216,12 @@
         "of",
         "Israel."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 4,
       "verse": 6,
       "text": [
         "And",
@@ -246,9 +259,12 @@
         "a",
         "year."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 4,
       "verse": 7,
       "text": [
         "Therefore",
@@ -275,9 +291,12 @@
         "against",
         "it."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 4,
       "verse": 8,
       "text": [
         "And,",
@@ -309,9 +328,12 @@
         "thy",
         "siege."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 4,
       "verse": 9,
       "text": [
         "¶",
@@ -366,9 +388,12 @@
         "eat",
         "thereof."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 4,
       "verse": 10,
       "text": [
         "And",
@@ -395,9 +420,12 @@
         "eat",
         "it."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 4,
       "verse": 11,
       "text": [
         "Thou",
@@ -421,9 +449,12 @@
         "thou",
         "drink."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 4,
       "verse": 12,
       "text": [
         "And",
@@ -450,14 +481,17 @@
         "their",
         "sight."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 4,
       "verse": 13,
       "text": [
         "And",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "said,",
         "Even",
         "thus",
@@ -479,9 +513,12 @@
         "drive",
         "them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 4,
       "verse": 14,
       "text": [
         "Then",
@@ -489,7 +526,7 @@
         "I,",
         "Ah",
         "Lord",
-        "GOD!",
+        "Gᴏᴅ!",
         "behold,",
         "my",
         "soul",
@@ -529,9 +566,12 @@
         "my",
         "mouth."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 4,
       "verse": 15,
       "text": [
         "Then",
@@ -557,9 +597,12 @@
         "bread",
         "therewith."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 4,
       "verse": 16,
       "text": [
         "Moreover",
@@ -601,9 +644,12 @@
         "with",
         "astonishment:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 4,
       "verse": 17,
       "text": [
         "That",
@@ -626,7 +672,8 @@
         "their",
         "iniquity."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

@@ -1,12 +1,10 @@
 {
-  "book_id": "JAS",
   "book_name": "James",
   "chapter": 4,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "James",
+      "chapter": 4,
       "verse": 1,
       "text": [
         "From",
@@ -31,9 +29,12 @@
         "your",
         "members?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 4,
       "verse": 2,
       "text": [
         "Ye",
@@ -63,9 +64,12 @@
         "ask",
         "not."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 4,
       "verse": 3,
       "text": [
         "Ye",
@@ -86,9 +90,12 @@
         "your",
         "lusts."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 4,
       "verse": 4,
       "text": [
         "Ye",
@@ -123,9 +130,12 @@
         "of",
         "God."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 4,
       "verse": 5,
       "text": [
         "Do",
@@ -147,9 +157,12 @@
         "to",
         "envy?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 4,
       "verse": 6,
       "text": [
         "But",
@@ -171,9 +184,12 @@
         "the",
         "humble."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 4,
       "verse": 7,
       "text": [
         "Submit",
@@ -191,9 +207,12 @@
         "from",
         "you."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 4,
       "verse": 8,
       "text": [
         "Draw",
@@ -220,9 +239,12 @@
         "double",
         "minded."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 4,
       "verse": 9,
       "text": [
         "Be",
@@ -244,9 +266,12 @@
         "to",
         "heaviness."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 4,
       "verse": 10,
       "text": [
         "Humble",
@@ -264,9 +289,12 @@
         "you",
         "up."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 4,
       "verse": 11,
       "text": [
         "Speak",
@@ -314,9 +342,12 @@
         "a",
         "judge."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 4,
       "verse": 12,
       "text": [
         "There",
@@ -338,9 +369,12 @@
         "judgest",
         "another?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 4,
       "verse": 13,
       "text": [
         "Go",
@@ -374,9 +408,12 @@
         "get",
         "gain:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 4,
       "verse": 14,
       "text": [
         "Whereas",
@@ -410,9 +447,12 @@
         "vanisheth",
         "away."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 4,
       "verse": 15,
       "text": [
         "For",
@@ -434,9 +474,12 @@
         "or",
         "that."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 4,
       "verse": 16,
       "text": [
         "But",
@@ -452,9 +495,12 @@
         "is",
         "evil."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "James",
+      "chapter": 4,
       "verse": 17,
       "text": [
         "Therefore",
@@ -475,7 +521,8 @@
         "is",
         "sin."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

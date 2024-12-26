@@ -1,12 +1,10 @@
 {
-  "book_id": "EZK",
   "book_name": "Ezekiel",
   "chapter": 14,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 1,
       "text": [
         "Then",
@@ -24,9 +22,12 @@
         "before",
         "me."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 2,
       "text": [
         "And",
@@ -34,15 +35,18 @@
         "word",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "came",
         "unto",
         "me,",
         "saying,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 3,
       "text": [
         "Son",
@@ -71,16 +75,19 @@
         "should",
         "I",
         "be",
-        "enquired",
+        "inquired",
         "of",
         "at",
         "all",
         "by",
         "them?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 4,
       "text": [
         "Therefore",
@@ -95,7 +102,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "Every",
         "man",
         "of",
@@ -128,7 +135,7 @@
         "prophet;",
         "I",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "will",
         "answer",
         "him",
@@ -142,9 +149,12 @@
         "his",
         "idols;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 5,
       "text": [
         "That",
@@ -170,9 +180,12 @@
         "their",
         "idols."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 6,
       "text": [
         "¶",
@@ -187,7 +200,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "Repent,",
         "and",
         "turn",
@@ -205,9 +218,12 @@
         "your",
         "abominations."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 7,
       "text": [
         "For",
@@ -255,23 +271,26 @@
         "a",
         "prophet",
         "to",
-        "enquire",
+        "inquire",
         "of",
         "him",
         "concerning",
         "me;",
         "I",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "will",
         "answer",
         "him",
         "by",
         "myself:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 8,
       "text": [
         "And",
@@ -312,11 +331,14 @@
         "I",
         "*am",
         "the",
-        "LORD."
+        "Lᴏʀᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 9,
       "text": [
         "And",
@@ -333,7 +355,7 @@
         "thing,",
         "I",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "have",
         "deceived",
         "that",
@@ -359,9 +381,12 @@
         "people",
         "Israel."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 10,
       "text": [
         "And",
@@ -391,9 +416,12 @@
         "*unto",
         "*him;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 11,
       "text": [
         "That",
@@ -433,11 +461,14 @@
         "saith",
         "the",
         "Lord",
-        "GOD."
+        "Gᴏᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 12,
       "text": [
         "¶",
@@ -445,16 +476,19 @@
         "word",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "came",
         "again",
         "to",
         "me,",
         "saying,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 13,
       "text": [
         "Son",
@@ -503,9 +537,12 @@
         "from",
         "it:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 14,
       "text": [
         "Though",
@@ -532,11 +569,14 @@
         "saith",
         "the",
         "Lord",
-        "GOD."
+        "Gᴏᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 15,
       "text": [
         "If",
@@ -569,9 +609,12 @@
         "the",
         "beasts:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 16,
       "text": [
         "*Though",
@@ -587,7 +630,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD,",
+        "Gᴏᴅ,",
         "they",
         "shall",
         "deliver",
@@ -607,9 +650,12 @@
         "be",
         "desolate."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 17,
       "text": [
         "¶",
@@ -640,9 +686,12 @@
         "from",
         "it:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 18,
       "text": [
         "Though",
@@ -658,7 +707,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD,",
+        "Gᴏᴅ,",
         "they",
         "shall",
         "deliver",
@@ -674,9 +723,12 @@
         "delivered",
         "themselves."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 19,
       "text": [
         "¶",
@@ -707,9 +759,12 @@
         "and",
         "beast:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 20,
       "text": [
         "Though",
@@ -726,7 +781,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD,",
+        "Gᴏᴅ,",
         "they",
         "shall",
         "deliver",
@@ -745,9 +800,12 @@
         "their",
         "righteousness."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 21,
       "text": [
         "For",
@@ -755,7 +813,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "How",
         "much",
         "more",
@@ -789,9 +847,12 @@
         "and",
         "beast?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 22,
       "text": [
         "¶",
@@ -852,9 +913,12 @@
         "upon",
         "it."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 14,
       "verse": 23,
       "text": [
         "And",
@@ -891,9 +955,10 @@
         "saith",
         "the",
         "Lord",
-        "GOD."
+        "Gᴏᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

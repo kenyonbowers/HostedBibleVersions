@@ -1,12 +1,10 @@
 {
-  "book_id": "MRK",
   "book_name": "Mark",
   "chapter": 8,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 1,
       "text": [
         "In",
@@ -33,65 +31,74 @@
         "unto",
         "them,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 2,
       "text": [
-        "|I",
-        "|have",
-        "|compassion",
-        "|on",
-        "|the",
-        "|multitude,",
-        "|because",
-        "|they",
-        "|have",
-        "|now",
-        "|been",
-        "|with",
-        "|me",
-        "|three",
-        "|days,",
-        "|and",
-        "|have",
-        "|nothing",
-        "|to",
-        "|eat:"
+        "I",
+        "have",
+        "compassion",
+        "on",
+        "the",
+        "multitude,",
+        "because",
+        "they",
+        "have",
+        "now",
+        "been",
+        "with",
+        "me",
+        "three",
+        "days,",
+        "and",
+        "have",
+        "nothing",
+        "to",
+        "eat:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 3,
       "text": [
-        "|And",
-        "|if",
-        "|I",
-        "|send",
-        "|them",
-        "|away",
-        "|fasting",
-        "|to",
-        "|their",
-        "|own",
-        "|houses,",
-        "|they",
-        "|will",
-        "|faint",
-        "|by",
-        "|the",
-        "|way:",
-        "|for",
-        "|divers",
-        "|of",
-        "|them",
-        "|came",
-        "|from",
-        "|far."
+        "And",
+        "if",
+        "I",
+        "send",
+        "them",
+        "away",
+        "fasting",
+        "to",
+        "their",
+        "own",
+        "houses,",
+        "they",
+        "will",
+        "faint",
+        "by",
+        "the",
+        "way:",
+        "for",
+        "divers",
+        "of",
+        "them",
+        "came",
+        "from",
+        "far."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 4,
       "text": [
         "And",
@@ -114,28 +121,34 @@
         "the",
         "wilderness?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 5,
       "text": [
         "And",
         "he",
         "asked",
         "them,",
-        "|How",
-        "|many",
-        "|loaves",
-        "|have",
-        "|ye?",
+        "How",
+        "many",
+        "loaves",
+        "have",
+        "ye?",
         "And",
         "they",
         "said,",
         "Seven."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 6,
       "text": [
         "And",
@@ -178,9 +191,12 @@
         "the",
         "people."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 7,
       "text": [
         "And",
@@ -202,9 +218,12 @@
         "before",
         "*them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 8,
       "text": [
         "So",
@@ -228,9 +247,12 @@
         "seven",
         "baskets."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 9,
       "text": [
         "And",
@@ -248,9 +270,12 @@
         "them",
         "away."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 10,
       "text": [
         "¶",
@@ -272,9 +297,12 @@
         "of",
         "Dalmanutha."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 11,
       "text": [
         "And",
@@ -298,9 +326,12 @@
         "tempting",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 12,
       "text": [
         "And",
@@ -312,32 +343,35 @@
         "spirit,",
         "and",
         "saith,",
-        "|Why",
-        "|doth",
-        "|this",
-        "|generation",
-        "|seek",
-        "|after",
-        "|a",
-        "|sign?",
-        "|verily",
-        "|I",
-        "|say",
-        "|unto",
-        "|you,",
-        "|There",
-        "|shall",
-        "|no",
-        "|sign",
-        "|be",
-        "|given",
-        "|unto",
-        "|this",
-        "|generation."
+        "Why",
+        "doth",
+        "this",
+        "generation",
+        "seek",
+        "after",
+        "a",
+        "sign?",
+        "verily",
+        "I",
+        "say",
+        "unto",
+        "you,",
+        "There",
+        "shall",
+        "no",
+        "sign",
+        "be",
+        "given",
+        "unto",
+        "this",
+        "generation."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 13,
       "text": [
         "And",
@@ -356,9 +390,12 @@
         "other",
         "side."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 14,
       "text": [
         "¶",
@@ -383,9 +420,12 @@
         "one",
         "loaf."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 15,
       "text": [
         "And",
@@ -393,25 +433,28 @@
         "charged",
         "them,",
         "saying,",
-        "|Take",
-        "|heed,",
-        "|beware",
-        "|of",
-        "|the",
-        "|leaven",
-        "|of",
-        "|the",
-        "|Pharisees,",
-        "|and",
-        "|*of",
-        "|the",
-        "|leaven",
-        "|of",
-        "|Herod."
+        "Take",
+        "heed,",
+        "beware",
+        "of",
+        "the",
+        "leaven",
+        "of",
+        "the",
+        "Pharisees,",
+        "and",
+        "*of",
+        "the",
+        "leaven",
+        "of",
+        "Herod."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 16,
       "text": [
         "And",
@@ -428,9 +471,12 @@
         "no",
         "bread."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 17,
       "text": [
         "And",
@@ -442,107 +488,119 @@
         "saith",
         "unto",
         "them,",
-        "|Why",
-        "|reason",
-        "|ye,",
-        "|because",
-        "|ye",
-        "|have",
-        "|no",
-        "|bread?",
-        "|perceive",
-        "|ye",
-        "|not",
-        "|yet,",
-        "|neither",
-        "|understand?",
-        "|have",
-        "|ye",
-        "|your",
-        "|heart",
-        "|yet",
-        "|hardened?"
+        "Why",
+        "reason",
+        "ye,",
+        "because",
+        "ye",
+        "have",
+        "no",
+        "bread?",
+        "perceive",
+        "ye",
+        "not",
+        "yet,",
+        "neither",
+        "understand?",
+        "have",
+        "ye",
+        "your",
+        "heart",
+        "yet",
+        "hardened?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 18,
       "text": [
-        "|Having",
-        "|eyes,",
-        "|see",
-        "|ye",
-        "|not?",
-        "|and",
-        "|having",
-        "|ears,",
-        "|hear",
-        "|ye",
-        "|not?",
-        "|and",
-        "|do",
-        "|ye",
-        "|not",
-        "|remember?"
+        "Having",
+        "eyes,",
+        "see",
+        "ye",
+        "not?",
+        "and",
+        "having",
+        "ears,",
+        "hear",
+        "ye",
+        "not?",
+        "and",
+        "do",
+        "ye",
+        "not",
+        "remember?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 19,
       "text": [
-        "|When",
-        "|I",
-        "|brake",
-        "|the",
-        "|five",
-        "|loaves",
-        "|among",
-        "|five",
-        "|thousand,",
-        "|how",
-        "|many",
-        "|baskets",
-        "|full",
-        "|of",
-        "|fragments",
-        "|took",
-        "|ye",
-        "|up?",
+        "When",
+        "I",
+        "brake",
+        "the",
+        "five",
+        "loaves",
+        "among",
+        "five",
+        "thousand,",
+        "how",
+        "many",
+        "baskets",
+        "full",
+        "of",
+        "fragments",
+        "took",
+        "ye",
+        "up?",
         "They",
         "say",
         "unto",
         "him,",
         "Twelve."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 20,
       "text": [
-        "|And",
-        "|when",
-        "|the",
-        "|seven",
-        "|among",
-        "|four",
-        "|thousand,",
-        "|how",
-        "|many",
-        "|baskets",
-        "|full",
-        "|of",
-        "|fragments",
-        "|took",
-        "|ye",
-        "|up?",
+        "And",
+        "when",
+        "the",
+        "seven",
+        "among",
+        "four",
+        "thousand,",
+        "how",
+        "many",
+        "baskets",
+        "full",
+        "of",
+        "fragments",
+        "took",
+        "ye",
+        "up?",
         "And",
         "they",
         "said,",
         "Seven."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 21,
       "text": [
         "And",
@@ -550,18 +608,21 @@
         "said",
         "unto",
         "them,",
-        "|How",
-        "|is",
-        "|it",
-        "|that",
-        "|ye",
-        "|do",
-        "|not",
-        "|understand?"
+        "How",
+        "is",
+        "it",
+        "that",
+        "ye",
+        "do",
+        "not",
+        "understand?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 22,
       "text": [
         "¶",
@@ -585,9 +646,12 @@
         "touch",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 23,
       "text": [
         "And",
@@ -628,9 +692,12 @@
         "saw",
         "ought."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 24,
       "text": [
         "And",
@@ -646,9 +713,12 @@
         "trees,",
         "walking."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 25,
       "text": [
         "After",
@@ -676,9 +746,12 @@
         "man",
         "clearly."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 26,
       "text": [
         "And",
@@ -690,23 +763,26 @@
         "his",
         "house,",
         "saying,",
-        "|Neither",
-        "|go",
-        "|into",
-        "|the",
-        "|town,",
-        "|nor",
-        "|tell",
-        "|*it",
-        "|to",
-        "|any",
-        "|in",
-        "|the",
-        "|town."
+        "Neither",
+        "go",
+        "into",
+        "the",
+        "town,",
+        "nor",
+        "tell",
+        "*it",
+        "to",
+        "any",
+        "in",
+        "the",
+        "town."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 27,
       "text": [
         "¶",
@@ -734,17 +810,20 @@
         "saying",
         "unto",
         "them,",
-        "|Whom",
-        "|do",
-        "|men",
-        "|say",
-        "|that",
-        "|I",
-        "|am?"
+        "Whom",
+        "do",
+        "men",
+        "say",
+        "that",
+        "I",
+        "am?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 28,
       "text": [
         "And",
@@ -764,9 +843,12 @@
         "the",
         "prophets."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 29,
       "text": [
         "And",
@@ -774,13 +856,13 @@
         "saith",
         "unto",
         "them,",
-        "|But",
-        "|whom",
-        "|say",
-        "|ye",
-        "|that",
-        "|I",
-        "|am?",
+        "But",
+        "whom",
+        "say",
+        "ye",
+        "that",
+        "I",
+        "am?",
         "And",
         "Peter",
         "answereth",
@@ -793,9 +875,12 @@
         "the",
         "Christ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 30,
       "text": [
         "And",
@@ -811,9 +896,12 @@
         "of",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 31,
       "text": [
         "And",
@@ -854,9 +942,12 @@
         "rise",
         "again."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 32,
       "text": [
         "And",
@@ -875,9 +966,12 @@
         "rebuke",
         "him."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 33,
       "text": [
         "But",
@@ -895,32 +989,35 @@
         "rebuked",
         "Peter,",
         "saying,",
-        "|Get",
-        "|thee",
-        "|behind",
-        "|me,",
-        "|Satan:",
-        "|for",
-        "|thou",
-        "|savourest",
-        "|not",
-        "|the",
-        "|things",
-        "|that",
-        "|be",
-        "|of",
-        "|God,",
-        "|but",
-        "|the",
-        "|things",
-        "|that",
-        "|be",
-        "|of",
-        "|men."
+        "Get",
+        "thee",
+        "behind",
+        "me,",
+        "Satan:",
+        "for",
+        "thou",
+        "savourest",
+        "not",
+        "the",
+        "things",
+        "that",
+        "be",
+        "of",
+        "God,",
+        "but",
+        "the",
+        "things",
+        "that",
+        "be",
+        "of",
+        "men."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 34,
       "text": [
         "¶",
@@ -941,145 +1038,158 @@
         "said",
         "unto",
         "them,",
-        "|Whosoever",
-        "|will",
-        "|come",
-        "|after",
-        "|me,",
-        "|let",
-        "|him",
-        "|deny",
-        "|himself,",
-        "|and",
-        "|take",
-        "|up",
-        "|his",
-        "|cross,",
-        "|and",
-        "|follow",
-        "|me."
+        "Whosoever",
+        "will",
+        "come",
+        "after",
+        "me,",
+        "let",
+        "him",
+        "deny",
+        "himself,",
+        "and",
+        "take",
+        "up",
+        "his",
+        "cross,",
+        "and",
+        "follow",
+        "me."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 35,
       "text": [
-        "|For",
-        "|whosoever",
-        "|will",
-        "|save",
-        "|his",
-        "|life",
-        "|shall",
-        "|lose",
-        "|it;",
-        "|but",
-        "|whosoever",
-        "|shall",
-        "|lose",
-        "|his",
-        "|life",
-        "|for",
-        "|my",
-        "|sake",
-        "|and",
-        "|the",
-        "|gospel's,",
-        "|the",
-        "|same",
-        "|shall",
-        "|save",
-        "|it."
+        "For",
+        "whosoever",
+        "will",
+        "save",
+        "his",
+        "life",
+        "shall",
+        "lose",
+        "it;",
+        "but",
+        "whosoever",
+        "shall",
+        "lose",
+        "his",
+        "life",
+        "for",
+        "my",
+        "sake",
+        "and",
+        "the",
+        "gospel's,",
+        "the",
+        "same",
+        "shall",
+        "save",
+        "it."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 36,
       "text": [
-        "|For",
-        "|what",
-        "|shall",
-        "|it",
-        "|profit",
-        "|a",
-        "|man,",
-        "|if",
-        "|he",
-        "|shall",
-        "|gain",
-        "|the",
-        "|whole",
-        "|world,",
-        "|and",
-        "|lose",
-        "|his",
-        "|own",
-        "|soul?"
+        "For",
+        "what",
+        "shall",
+        "it",
+        "profit",
+        "a",
+        "man,",
+        "if",
+        "he",
+        "shall",
+        "gain",
+        "the",
+        "whole",
+        "world,",
+        "and",
+        "lose",
+        "his",
+        "own",
+        "soul?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 37,
       "text": [
-        "|Or",
-        "|what",
-        "|shall",
-        "|a",
-        "|man",
-        "|give",
-        "|in",
-        "|exchange",
-        "|for",
-        "|his",
-        "|soul?"
+        "Or",
+        "what",
+        "shall",
+        "a",
+        "man",
+        "give",
+        "in",
+        "exchange",
+        "for",
+        "his",
+        "soul?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Mark",
+      "chapter": 8,
       "verse": 38,
       "text": [
-        "|Whosoever",
-        "|therefore",
-        "|shall",
-        "|be",
-        "|ashamed",
-        "|of",
-        "|me",
-        "|and",
-        "|of",
-        "|my",
-        "|words",
-        "|in",
-        "|this",
-        "|adulterous",
-        "|and",
-        "|sinful",
-        "|generation;",
-        "|of",
-        "|him",
-        "|also",
-        "|shall",
-        "|the",
-        "|Son",
-        "|of",
-        "|man",
-        "|be",
-        "|ashamed,",
-        "|when",
-        "|he",
-        "|cometh",
-        "|in",
-        "|the",
-        "|glory",
-        "|of",
-        "|his",
-        "|Father",
-        "|with",
-        "|the",
-        "|holy",
-        "|angels."
+        "Whosoever",
+        "therefore",
+        "shall",
+        "be",
+        "ashamed",
+        "of",
+        "me",
+        "and",
+        "of",
+        "my",
+        "words",
+        "in",
+        "this",
+        "adulterous",
+        "and",
+        "sinful",
+        "generation;",
+        "of",
+        "him",
+        "also",
+        "shall",
+        "the",
+        "Son",
+        "of",
+        "man",
+        "be",
+        "ashamed,",
+        "when",
+        "he",
+        "cometh",
+        "in",
+        "the",
+        "glory",
+        "of",
+        "his",
+        "Father",
+        "with",
+        "the",
+        "holy",
+        "angels."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

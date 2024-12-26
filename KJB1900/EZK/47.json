@@ -1,12 +1,10 @@
 {
-  "book_id": "EZK",
   "book_name": "Ezekiel",
   "chapter": 47,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 1,
       "text": [
         "Afterward",
@@ -65,9 +63,12 @@
         "the",
         "altar."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 2,
       "text": [
         "Then",
@@ -110,9 +111,12 @@
         "right",
         "side."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 3,
       "text": [
         "And",
@@ -146,11 +150,14 @@
         "*were",
         "to",
         "the",
-        "ankles."
+        "ancles."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 4,
       "text": [
         "Again",
@@ -186,9 +193,12 @@
         "the",
         "loins."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 5,
       "text": [
         "Afterward",
@@ -225,9 +235,12 @@
         "passed",
         "over."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 6,
       "text": [
         "¶",
@@ -259,9 +272,12 @@
         "the",
         "river."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 7,
       "text": [
         "Now",
@@ -289,9 +305,12 @@
         "the",
         "other."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 8,
       "text": [
         "Then",
@@ -331,9 +350,12 @@
         "be",
         "healed."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 9,
       "text": [
         "And",
@@ -387,9 +409,12 @@
         "river",
         "cometh."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 10,
       "text": [
         "And",
@@ -437,9 +462,12 @@
         "exceeding",
         "many."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 11,
       "text": [
         "But",
@@ -462,9 +490,12 @@
         "to",
         "salt."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 12,
       "text": [
         "And",
@@ -534,9 +565,12 @@
         "for",
         "medicine."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 13,
       "text": [
         "¶",
@@ -544,7 +578,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "This",
         "*shall",
         "*be",
@@ -569,9 +603,12 @@
         "*two",
         "portions."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 14,
       "text": [
         "And",
@@ -608,9 +645,12 @@
         "for",
         "inheritance."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 15,
       "text": [
         "And",
@@ -640,9 +680,12 @@
         "to",
         "Zedad;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 16,
       "text": [
         "Hamath,",
@@ -669,9 +712,12 @@
         "of",
         "Hauran."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 17,
       "text": [
         "And",
@@ -703,9 +749,12 @@
         "north",
         "side."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 18,
       "text": [
         "And",
@@ -745,9 +794,12 @@
         "east",
         "side."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 19,
       "text": [
         "And",
@@ -779,9 +831,12 @@
         "side",
         "southward."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 20,
       "text": [
         "The",
@@ -809,9 +864,12 @@
         "west",
         "side."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 21,
       "text": [
         "So",
@@ -829,9 +887,12 @@
         "of",
         "Israel."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 22,
       "text": [
         "¶",
@@ -895,9 +956,12 @@
         "of",
         "Israel."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 47,
       "verse": 23,
       "text": [
         "And",
@@ -923,9 +987,10 @@
         "saith",
         "the",
         "Lord",
-        "GOD."
+        "Gᴏᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

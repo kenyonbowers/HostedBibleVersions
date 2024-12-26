@@ -1,12 +1,10 @@
 {
-  "book_id": "SNG",
   "book_name": "Song of Solomon",
   "chapter": 8,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Song of Solomon",
+      "chapter": 8,
       "verse": 1,
       "text": [
         "O",
@@ -40,9 +38,12 @@
         "be",
         "despised."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 8,
       "verse": 2,
       "text": [
         "I",
@@ -76,9 +77,12 @@
         "my",
         "pomegranate."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 8,
       "verse": 3,
       "text": [
         "His",
@@ -97,9 +101,12 @@
         "embrace",
         "me."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 8,
       "verse": 4,
       "text": [
         "I",
@@ -122,9 +129,12 @@
         "he",
         "please."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 8,
       "verse": 5,
       "text": [
         "Who",
@@ -163,9 +173,12 @@
         "bare",
         "thee."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 8,
       "verse": 6,
       "text": [
         "¶",
@@ -204,14 +217,17 @@
         "fire,",
         "*which",
         "*hath",
-        "*a",
+        "a",
         "most",
         "vehement",
         "flame."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 8,
       "verse": 7,
       "text": [
         "Many",
@@ -226,7 +242,7 @@
         "drown",
         "it:",
         "if",
-        "*a",
+        "a",
         "man",
         "would",
         "give",
@@ -244,9 +260,12 @@
         "be",
         "contemned."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 8,
       "verse": 8,
       "text": [
         "¶",
@@ -277,9 +296,12 @@
         "spoken",
         "for?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 8,
       "verse": 9,
       "text": [
         "If",
@@ -311,9 +333,12 @@
         "of",
         "cedar."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 8,
       "verse": 10,
       "text": [
         "I",
@@ -337,9 +362,12 @@
         "found",
         "favour."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 8,
       "verse": 11,
       "text": [
         "Solomon",
@@ -370,9 +398,12 @@
         "of",
         "silver."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 8,
       "verse": 12,
       "text": [
         "My",
@@ -400,9 +431,12 @@
         "two",
         "hundred."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 8,
       "verse": 13,
       "text": [
         "Thou",
@@ -423,9 +457,12 @@
         "hear",
         "*it."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Song of Solomon",
+      "chapter": 8,
       "verse": 14,
       "text": [
         "¶",
@@ -451,7 +488,8 @@
         "of",
         "spices."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

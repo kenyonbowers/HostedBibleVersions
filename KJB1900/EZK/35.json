@@ -1,12 +1,10 @@
 {
-  "book_id": "EZK",
   "book_name": "Ezekiel",
   "chapter": 35,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Ezekiel",
+      "chapter": 35,
       "verse": 1,
       "text": [
         "Moreover",
@@ -14,15 +12,18 @@
         "word",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "came",
         "unto",
         "me,",
         "saying,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 35,
       "verse": 2,
       "text": [
         "Son",
@@ -39,9 +40,12 @@
         "against",
         "it,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 35,
       "verse": 3,
       "text": [
         "And",
@@ -52,7 +56,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "Behold,",
         "O",
         "mount",
@@ -78,9 +82,12 @@
         "most",
         "desolate."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 35,
       "verse": 4,
       "text": [
         "I",
@@ -102,11 +109,14 @@
         "I",
         "*am",
         "the",
-        "LORD."
+        "Lᴏʀᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 35,
       "verse": 5,
       "text": [
         "Because",
@@ -148,9 +158,12 @@
         "an",
         "end:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 35,
       "verse": 6,
       "text": [
         "Therefore,",
@@ -160,7 +173,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD,",
+        "Gᴏᴅ,",
         "I",
         "will",
         "prepare",
@@ -184,9 +197,12 @@
         "pursue",
         "thee."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 35,
       "verse": 7,
       "text": [
         "Thus",
@@ -211,9 +227,12 @@
         "that",
         "returneth."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 35,
       "verse": 8,
       "text": [
         "And",
@@ -248,9 +267,12 @@
         "the",
         "sword."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 35,
       "verse": 9,
       "text": [
         "I",
@@ -273,11 +295,14 @@
         "I",
         "*am",
         "the",
-        "LORD."
+        "Lᴏʀᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 35,
       "verse": 10,
       "text": [
         "Because",
@@ -301,13 +326,16 @@
         "it;",
         "whereas",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "was",
         "there:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 35,
       "verse": 11,
       "text": [
         "Therefore,",
@@ -317,7 +345,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD,",
+        "Gᴏᴅ,",
         "I",
         "will",
         "even",
@@ -355,9 +383,12 @@
         "judged",
         "thee."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 35,
       "verse": 12,
       "text": [
         "And",
@@ -368,7 +399,7 @@
         "I",
         "*am",
         "the",
-        "LORD,",
+        "Lᴏʀᴅ,",
         "*and",
         "*that",
         "I",
@@ -398,9 +429,12 @@
         "to",
         "consume."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 35,
       "verse": 13,
       "text": [
         "Thus",
@@ -424,16 +458,19 @@
         "heard",
         "*them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 35,
       "verse": 14,
       "text": [
         "Thus",
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "When",
         "the",
         "whole",
@@ -445,9 +482,12 @@
         "thee",
         "desolate."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 35,
       "verse": 15,
       "text": [
         "As",
@@ -494,9 +534,10 @@
         "I",
         "*am",
         "the",
-        "LORD."
+        "Lᴏʀᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

@@ -1,12 +1,10 @@
 {
-  "book_id": "EZK",
   "book_name": "Ezekiel",
   "chapter": 33,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 1,
       "text": [
         "Again",
@@ -14,15 +12,18 @@
         "word",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "came",
         "unto",
         "me,",
         "saying,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 2,
       "text": [
         "Son",
@@ -66,9 +67,12 @@
         "their",
         "watchman:"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 3,
       "text": [
         "If",
@@ -90,9 +94,12 @@
         "the",
         "people;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 4,
       "text": [
         "Then",
@@ -124,9 +131,12 @@
         "own",
         "head."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 5,
       "text": [
         "He",
@@ -156,9 +166,12 @@
         "his",
         "soul."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 6,
       "text": [
         "But",
@@ -209,9 +222,12 @@
         "watchman's",
         "hand."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 7,
       "text": [
         "¶",
@@ -247,9 +263,12 @@
         "from",
         "me."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 8,
       "text": [
         "When",
@@ -295,9 +314,12 @@
         "thine",
         "hand."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 9,
       "text": [
         "Nevertheless,",
@@ -334,9 +356,12 @@
         "thy",
         "soul."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 10,
       "text": [
         "Therefore,",
@@ -376,9 +401,12 @@
         "then",
         "live?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 11,
       "text": [
         "Say",
@@ -390,7 +418,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD,",
+        "Gᴏᴅ,",
         "I",
         "have",
         "no",
@@ -429,9 +457,12 @@
         "of",
         "Israel?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 12,
       "text": [
         "Therefore,",
@@ -500,9 +531,12 @@
         "he",
         "sinneth."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 13,
       "text": [
         "When",
@@ -548,9 +582,12 @@
         "for",
         "it."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 14,
       "text": [
         "Again,",
@@ -579,9 +616,12 @@
         "and",
         "right;"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 15,
       "text": [
         "*If",
@@ -614,9 +654,12 @@
         "not",
         "die."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 16,
       "text": [
         "None",
@@ -646,9 +689,12 @@
         "surely",
         "live."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 17,
       "text": [
         "¶",
@@ -677,9 +723,12 @@
         "not",
         "equal."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 18,
       "text": [
         "When",
@@ -698,9 +747,12 @@
         "die",
         "thereby."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 19,
       "text": [
         "But",
@@ -724,9 +776,12 @@
         "live",
         "thereby."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 20,
       "text": [
         "¶",
@@ -756,9 +811,12 @@
         "his",
         "ways."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 21,
       "text": [
         "¶",
@@ -802,9 +860,12 @@
         "is",
         "smitten."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 22,
       "text": [
         "Now",
@@ -812,7 +873,7 @@
         "hand",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "was",
         "upon",
         "me",
@@ -850,9 +911,12 @@
         "more",
         "dumb."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 23,
       "text": [
         "Then",
@@ -860,15 +924,18 @@
         "word",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "came",
         "unto",
         "me,",
         "saying,"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 24,
       "text": [
         "Son",
@@ -906,9 +973,12 @@
         "for",
         "inheritance."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 25,
       "text": [
         "Wherefore",
@@ -919,7 +989,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "Ye",
         "eat",
         "with",
@@ -943,9 +1013,12 @@
         "the",
         "land?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 26,
       "text": [
         "Ye",
@@ -971,9 +1044,12 @@
         "the",
         "land?"
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 27,
       "text": [
         "Say",
@@ -985,7 +1061,7 @@
         "saith",
         "the",
         "Lord",
-        "GOD;",
+        "Gᴏᴅ;",
         "*As",
         "I",
         "live,",
@@ -1035,9 +1111,12 @@
         "the",
         "pestilence."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 28,
       "text": [
         "For",
@@ -1070,9 +1149,12 @@
         "pass",
         "through."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 29,
       "text": [
         "Then",
@@ -1083,7 +1165,7 @@
         "I",
         "*am",
         "the",
-        "LORD,",
+        "Lᴏʀᴅ,",
         "when",
         "I",
         "have",
@@ -1102,9 +1184,12 @@
         "have",
         "committed."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 30,
       "text": [
         "¶",
@@ -1159,11 +1244,14 @@
         "forth",
         "from",
         "the",
-        "LORD."
+        "Lᴏʀᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 31,
       "text": [
         "And",
@@ -1210,9 +1298,12 @@
         "their",
         "covetousness."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 32,
       "text": [
         "And,",
@@ -1251,9 +1342,12 @@
         "them",
         "not."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 33,
       "verse": 33,
       "text": [
         "And",
@@ -1278,7 +1372,8 @@
         "among",
         "them."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }

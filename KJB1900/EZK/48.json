@@ -1,12 +1,10 @@
 {
-  "book_id": "EZK",
   "book_name": "Ezekiel",
   "chapter": 48,
-  "header": "",
-  "footer": "",
-  "language": "English",
   "verses": [
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 1,
       "text": [
         "Now",
@@ -58,9 +56,12 @@
         "*for",
         "Dan."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 2,
       "text": [
         "And",
@@ -82,9 +83,12 @@
         "*for",
         "Asher."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 3,
       "text": [
         "And",
@@ -107,9 +111,12 @@
         "*for",
         "Naphtali."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 4,
       "text": [
         "And",
@@ -131,9 +138,12 @@
         "*for",
         "Manasseh."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 5,
       "text": [
         "And",
@@ -155,9 +165,12 @@
         "*for",
         "Ephraim."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 6,
       "text": [
         "And",
@@ -180,9 +193,12 @@
         "*for",
         "Reuben."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 7,
       "text": [
         "And",
@@ -204,9 +220,12 @@
         "*for",
         "Judah."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 8,
       "text": [
         "¶",
@@ -268,9 +287,12 @@
         "of",
         "it."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 9,
       "text": [
         "The",
@@ -281,7 +303,7 @@
         "offer",
         "unto",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "*shall",
         "*be",
         "of",
@@ -298,9 +320,12 @@
         "in",
         "breadth."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 10,
       "text": [
         "And",
@@ -355,7 +380,7 @@
         "sanctuary",
         "of",
         "the",
-        "LORD",
+        "Lᴏʀᴅ",
         "shall",
         "be",
         "in",
@@ -363,9 +388,12 @@
         "midst",
         "thereof."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 11,
       "text": [
         "*It",
@@ -404,9 +432,12 @@
         "went",
         "astray."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 12,
       "text": [
         "And",
@@ -433,9 +464,12 @@
         "the",
         "Levites."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 13,
       "text": [
         "And",
@@ -476,9 +510,12 @@
         "ten",
         "thousand."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 14,
       "text": [
         "And",
@@ -503,11 +540,14 @@
         "holy",
         "unto",
         "the",
-        "LORD."
+        "Lᴏʀᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 15,
       "text": [
         "¶",
@@ -551,9 +591,12 @@
         "midst",
         "thereof."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 16,
       "text": [
         "And",
@@ -600,9 +643,12 @@
         "five",
         "hundred."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 17,
       "text": [
         "And",
@@ -645,9 +691,12 @@
         "and",
         "fifty."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 18,
       "text": [
         "And",
@@ -699,9 +748,12 @@
         "the",
         "city."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 19,
       "text": [
         "And",
@@ -721,9 +773,12 @@
         "of",
         "Israel."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 20,
       "text": [
         "All",
@@ -754,9 +809,12 @@
         "the",
         "city."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 21,
       "text": [
         "¶",
@@ -841,9 +899,12 @@
         "midst",
         "thereof."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 22,
       "text": [
         "Moreover",
@@ -886,9 +947,12 @@
         "the",
         "prince."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 23,
       "text": [
         "As",
@@ -912,9 +976,12 @@
         "a",
         "*portion."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 24,
       "text": [
         "And",
@@ -937,9 +1004,12 @@
         "a",
         "*portion."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 25,
       "text": [
         "And",
@@ -960,9 +1030,12 @@
         "a",
         "*portion."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 26,
       "text": [
         "And",
@@ -983,9 +1056,12 @@
         "a",
         "*portion."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 27,
       "text": [
         "And",
@@ -1006,9 +1082,12 @@
         "a",
         "*portion."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 28,
       "text": [
         "And",
@@ -1045,9 +1124,12 @@
         "great",
         "sea."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 29,
       "text": [
         "This",
@@ -1075,11 +1157,14 @@
         "saith",
         "the",
         "Lord",
-        "GOD."
+        "Gᴏᴅ."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 30,
       "text": [
         "¶",
@@ -1103,9 +1188,12 @@
         "hundred",
         "measures."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 31,
       "text": [
         "And",
@@ -1140,9 +1228,12 @@
         "of",
         "Levi."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 32,
       "text": [
         "And",
@@ -1172,9 +1263,12 @@
         "of",
         "Dan."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 33,
       "text": [
         "And",
@@ -1204,9 +1298,12 @@
         "of",
         "Zebulun."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 34,
       "text": [
         "At",
@@ -1235,9 +1332,12 @@
         "of",
         "Naphtali."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
+      "book_name": "Ezekiel",
+      "chapter": 48,
       "verse": 35,
       "text": [
         "*It",
@@ -1259,11 +1359,12 @@
         "*shall",
         "*be,",
         "The",
-        "LORD",
+        "Lᴏʀᴅ",
         "*is",
         "there."
       ],
-      "info": ""
+      "header": "",
+      "footer": ""
     }
   ]
 }
